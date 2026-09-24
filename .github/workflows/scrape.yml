@@ -1,0 +1,43 @@
+name: Scrape MLB Walk-Up Songs
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # 3am ET / 8am UTC — after MLB updates their pages
+  workflow_dispatch:       # manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Run scraper
+        env:
+          SPOTIFY_CLIENT_ID:     ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: python3 scrape_walkup.py
+
+      - name: Commit & push mlb.json
+        run: |
+          git config user.name  "SSS Bot"
+          git config user.email "bot@socialsoundsystem.com"
+          git add mlb.json mlb.prev.json
+          git diff --staged --quiet || \
+            git commit -m "🎵 Walk-up update $(date -u +%Y-%m-%d)"
+          git push
