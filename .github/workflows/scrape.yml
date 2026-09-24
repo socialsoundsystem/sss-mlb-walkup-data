@@ -2,15 +2,15 @@ name: Scrape MLB Walk-Up Songs
 
 on:
   schedule:
-    - cron: "0 8 * * *"   # 3am ET / 8am UTC — after MLB updates their pages
-  workflow_dispatch:       # manual trigger from Actions tab
+    - cron: "0 8 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
   scrape:
-   runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04
 
     steps:
       - name: Checkout
@@ -33,7 +33,7 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: python3 scrape_walkup.py
 
-      - name: Commit & push mlb.json
+      - name: Commit & push sss-mlb.json
         run: |
           git config user.name  "SSS Bot"
           git config user.email "bot@socialsoundsystem.com"
