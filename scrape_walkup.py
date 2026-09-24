@@ -29,8 +29,8 @@ from bs4 import BeautifulSoup
 # ── Config ────────────────────────────────────────────────────────────────────
 
 TODAY    = date.today().isoformat()
-OUT_FILE = Path(__file__).parent / "mlb.json"
-PREV_FILE = Path(__file__).parent / "mlb.prev.json"
+OUT_FILE = Path(__file__).parent / "sss-mlb.json"
+PREV_FILE = Path(__file__).parent / "sss-mlb.prev.json"
 DELAY    = 0.5  # seconds between Spotify API calls
 
 TEAMS = [
