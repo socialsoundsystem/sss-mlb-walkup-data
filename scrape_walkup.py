@@ -94,26 +94,41 @@ def spotify_search(song, artist):
     """Search Spotify for a track. Returns dict with id, preview_url, artwork, spotify_url."""
     try:
         token = get_spotify_token()
-        q = f"track:{song}"
-        if artist:
-            q += f" artist:{artist}"
-        r = requests.get(
-            "https://api.spotify.com/v1/search",
-            headers={"Authorization": f"Bearer {token}"},
-            params={"q": q, "type": "track", "limit": 1},
-            timeout=10,
-        )
-        r.raise_for_status()
-        items = r.json().get("tracks", {}).get("items", [])
+        # Strip featuring info for cleaner matching
+        clean = re.sub(r"\s*[\(\[]feat[^\)\]]*[\)\]]", "", song, flags=re.I).strip()
+        # Use only first artist when multiple listed
+        first_artist = artist.split(",")[0].strip() if artist else ""
+
+        def do_search(q):
+            r = requests.get(
+                "https://api.spotify.com/v1/search",
+                headers={"Authorization": f"Bearer {token}"},
+                params={"q": q, "type": "track", "limit": 3},
+                timeout=10,
+            )
+            r.raise_for_status()
+            return r.json().get("tracks", {}).get("items", [])
+
+        # Try specific query first, fall back to title only
+        items = do_search(f"track:{clean} artist:{first_artist}") if first_artist else []
+        if not items:
+            items = do_search(f"track:{clean}")
+        if not items:
+            items = do_search(clean)   # broadest fallback
         if not items:
             return {}
-        t = items[0]
-        images = t.get("album", {}).get("images", [])
+
+        # Best match: prefer track whose name contains our search term
+        match = next(
+            (t for t in items if clean.lower() in t.get("name", "").lower()),
+            items[0]
+        )
+        images = match.get("album", {}).get("images", [])
         return {
-            "id":         t["id"],
-            "p":          t.get("preview_url") or "",
+            "id":         match["id"],
+            "p":          match.get("preview_url") or "",
             "artworkUrl": images[0]["url"] if images else "",
-            "spotifyUrl": t["external_urls"]["spotify"],
+            "spotifyUrl": match["external_urls"]["spotify"],
         }
     except Exception as e:
         print(f"      ⚠ Spotify lookup failed for '{song}': {e}")
@@ -125,29 +140,42 @@ def parse_song_cell(td):
     """
     Parse the song/artist table cell.
     Returns list of dicts: [{s, a, spotifyUrl}]
-    Fixes the concatenation bug — each <a> tag is one song.
+    Uses newline separator to preserve song/artist split correctly.
     """
     songs = []
-    anchors = td.find_all("a", href=True)
+    anchors   = td.find_all("a", href=True)
+    sp_anchors = [a for a in anchors if "spotify.com" in a.get("href", "")]
 
-    spotify_anchors = [a for a in anchors if "spotify.com" in a.get("href", "")]
+    def split_song_artist(el):
+        """Extract song and artist from an element using newlines as delimiter."""
+        # separator="\n" inserts newlines between child tags (e.g. <br>, <span>)
+        raw   = el.get_text(separator="\n")
+        lines = [l.strip() for l in raw.split("\n") if l.strip()]
+        if not lines:
+            return "", ""
+        song   = lines[0]
+        artist = lines[1] if len(lines) > 1 else ""
+        # Fallback: split on 2+ spaces if only one line came back
+        if not artist and "  " in song:
+            parts  = song.split("  ", 1)
+            song   = parts[0].strip()
+            artist = parts[1].strip()
+        return song, artist
 
-    if spotify_anchors:
-        for a in spotify_anchors:
-            raw = re.sub(r"\s+", " ", a.get_text()).strip()
-            # Text format: "Song Title  Artist Name" (2+ spaces or newline)
-            parts = re.split(r"\s{2,}", raw, maxsplit=1)
-            song   = parts[0].strip() if parts else raw
-            artist = parts[1].strip() if len(parts) > 1 else ""
+    if sp_anchors:
+        for a in sp_anchors:
+            song, artist = split_song_artist(a)
             if song:
-                songs.append({"s": song, "a": artist, "spotifyUrl": a["href"].split("?")[0]})
+                songs.append({
+                    "s": song,
+                    "a": artist,
+                    "spotifyUrl": a["href"].split("?")[0],
+                })
     else:
-        # No Spotify links — parse plain text (e.g. Ohtani's unlicensed song)
-        raw = re.sub(r"\s+", " ", td.get_text()).strip()
-        parts = re.split(r"\s{2,}", raw, maxsplit=1)
-        song   = parts[0].strip() if parts else ""
-        artist = parts[1].strip() if len(parts) > 1 else ""
-        if song and song.lower() not in ("song/artist", "song", ""):
+        # No Spotify link (e.g. unlicensed track like Ohtani's song)
+        song, artist = split_song_artist(td)
+        skip = ("song/artist", "song", "player", "")
+        if song and song.lower() not in skip:
             songs.append({"s": song, "a": artist, "spotifyUrl": ""})
 
     return songs
