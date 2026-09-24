@@ -15,7 +15,7 @@ HERE    = Path(__file__).parent.resolve()
 HTML_IN = HERE / "index.html"
 
 # ── Data source: your GitHub Pages endpoint ───────────────────────────────────
-DATA_URL = "https://socialsoundsystem.github.io/sss-walkup-data/mlb.json"
+DATA_URL = "https://socialsoundsystem.github.io/sss-mlb-walkup-data/sss-mlb.json"
 
 print("=" * 54)
 print("  🎵 SocialSoundSystem — Walk-Up Deploy")
