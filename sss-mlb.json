@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "source": "socialsoundsystem.com",
-  "dataAsOf": "2026-10-07",
+  "dataAsOf": "2026-10-08",
   "stats": {
     "totalEntries": 642,
     "uniquePlayers": 595,
@@ -23,7 +23,7 @@
       "id": "2a1o6ZejUi8U3wzzOtCOYw",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734640a26eb27649006be29a94",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "Travisd'Arnaud",
@@ -36,7 +36,7 @@
       "id": "1ZoF4lTpHO5XcRyBycTt9V",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27349bfe4bf6b2a473640cab0d0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AdamFrazier",
@@ -49,7 +49,7 @@
       "id": "6daemhQH963YVeQYws6tMG",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273602bb41908a114dcac761eb9",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "VaughnGrissom",
@@ -62,7 +62,7 @@
       "id": "5O4erNlJ74PIF6kGol1ZrC",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731c40418d1c37d727e8e91b04",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TylerHeineman",
@@ -75,7 +75,7 @@
       "id": "2id8E4WvczfKHB4LHI7Np3",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732614c295a38ee782d093aa09",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "YuseiKikuchi",
@@ -88,7 +88,7 @@
       "id": "0ct6r3EGTcMLPtrXHDvVjc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730ae4f4d42e4a09f3a29f64ad",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoshLowe",
@@ -101,7 +101,7 @@
       "id": "6rLQZW36LaEUGWl3sWTg7v",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734d44b7f4fc30e8522d411bbe",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "WadeMeckler",
@@ -114,7 +114,7 @@
       "id": "2hVtGnJeHOo0EqjzYXNFg5",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ac271e5d670e92c42bf99237",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ZachNeto",
@@ -127,7 +127,7 @@
       "id": "63BcfK6YAzJYeISaTPr6IO",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273639fea4197e676cfe9512e04",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "OswaldPeraza",
@@ -140,7 +140,7 @@
       "id": "31i56LZnwE6uSu3exoHjtB",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "OswaldPeraza",
@@ -153,7 +153,7 @@
       "id": "2TxaCZl95n1ng6faK3MHnm",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738b412951ce7b4c213271b80f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GraysonRodriguez",
@@ -161,12 +161,12 @@
       "mlbId": "680570",
       "s": "Texas",
       "a": "BigXthaPlug",
-      "spotifyUrl": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm",
+      "spotifyUrl": "https://open.spotify.com/track/4FtFcyYxrQM77ADzP5UYUF",
       "p": "",
-      "id": "7j7ud2oFTJ8BjmeI8bjkQm",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273268040e04807a1e6d199583b",
+      "id": "4FtFcyYxrQM77ADzP5UYUF",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fb2ab19db9a35e32181cada7",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TaylerSaucedo",
@@ -179,7 +179,7 @@
       "id": "5oyUurs28XRagLa8lgm6V3",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273960f85083694374211bb2cab",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoseSiri",
@@ -192,7 +192,7 @@
       "id": "0UFSU9k3EvLRyTdzW5BzGb",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273376bc63e136dbcb7eeab00c6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MikeTrout",
@@ -205,7 +205,7 @@
       "id": "4A8cWXxKfIL3lAyUDzXbCF",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734c6aab6e1bf158b673188df3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyanWatson",
@@ -218,7 +218,7 @@
       "id": "2ohg3J8GfQ0Sa3hiJKOhlO",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273268e515d955ab306f0923e46",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BryanAbreu",
@@ -231,7 +231,7 @@
       "id": "0MJk3m9Ae2tDN3YMP18ZeE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c1335a4e04e12420fd4b9a48",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NickAllen",
@@ -244,7 +244,7 @@
       "id": "7xVwhsuZTUWhIyFeDH6rYr",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273debcf1dafbab38de65120884",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoseAltuve",
@@ -257,7 +257,7 @@
       "id": "61C7zXd4t2Zuhz6DRwgsLM",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733b7eae95269711225d7cb1a3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoseAltuve",
@@ -270,7 +270,7 @@
       "id": "1I8tHoNBFTuoJAlh4hfVVE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737247979b8bc6027bf97043ef",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "YordanAlvarez",
@@ -283,7 +283,7 @@
       "id": "1g8pQWNEI4UuQHsJh5mOvZ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273812bd5ef23b6fbe895b0b142",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RonelBlanco",
@@ -296,7 +296,7 @@
       "id": "4k5qsoh5YYdDedyhSi4HDi",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736920a1d90169a966ce9ef5f5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AJBlubaugh",
@@ -309,7 +309,7 @@
       "id": "7iXYRR70wewzVYzWScm99j",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27379abdfdbe029582f32fe0b94",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "HunterBrown",
@@ -322,7 +322,7 @@
       "id": "5FxVTEpoBress37MmlMhbZ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735c8d9ad991d2a23eb039d8dd",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EnyelDe Los Santos",
@@ -335,7 +335,7 @@
       "id": "0uItsVVpR8VEbGOdfGk1RE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736f3a15774ec214e83b11225f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RaynelDelgado",
@@ -348,7 +348,7 @@
       "id": "7LR85XLWw2yXqKBSI5brbG",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ZachDezenzo",
@@ -361,7 +361,7 @@
       "id": "0AU0VWpaoihPEvxly76JVf",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f4192c90558b79e10438b30d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "YainerDiaz",
@@ -374,7 +374,7 @@
       "id": "4mc8byHXW8rmZT5L5jwYG5",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273aa4491f635497528c1ca09d4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoshHader",
@@ -387,7 +387,7 @@
       "id": "0V8Lfj3q1JyiKNBkHiQR4k",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732d1dcd542a31bb7c751cff28",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoshHader",
@@ -400,7 +400,7 @@
       "id": "7oDbkGSI3IRzKmhrTiQdID",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TatsuyaImai",
@@ -413,7 +413,7 @@
       "id": "0S5otf3yhH2NIozxJPJTeV",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27334a95ced790bec72373b20dd",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CristianJavier",
@@ -426,7 +426,7 @@
       "id": "0XKkOfAtw2rW4QKVB9Q0Al",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a00346b6896b1cdf7d35c198",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BryanKing",
@@ -439,7 +439,7 @@
       "id": "2WrldKXSBVbNNm3A9vJryi",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273cae6e44dcc84e2035c3ad092",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PeterLambert",
@@ -452,7 +452,7 @@
       "id": "2RfYofkWwN77WJjR1rpena",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731215aac0c23dd8c31f5c14c1",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoeyLoperfido",
@@ -465,7 +465,7 @@
       "id": "1ixbwbeBi5ufN4noUKmW5a",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b969252f70cba3291b5fa077",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BriceMatthews",
@@ -478,7 +478,7 @@
       "id": "20dP2DaMHIAmwWAbp7peSr",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738752a7355996e64709247c53",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BriceMatthews",
@@ -491,7 +491,7 @@
       "id": "557DLyFeg06jCV2cpT005C",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b4e1230a1eb7173fb5c45ee4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "StevenOkert",
@@ -504,7 +504,7 @@
       "id": "5Ev3sAE6AN0baPJKe3vcy1",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27372616215eb4c30c5a9af9031",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "IsaacParedes",
@@ -517,7 +517,7 @@
       "id": "3Oa31DdD8vxktKoyUf7RyZ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730f8f3e50b2e8e689f646a1b3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JeremyPeña",
@@ -530,7 +530,7 @@
       "id": "3bMNprrp2JDKZsGbiXpsJl",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739bfafd29c34d738803a6a033",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JeremyPeña",
@@ -543,7 +543,7 @@
       "id": "4nva9EpKntUTs6CRSGBCn9",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27391f7222996c531b981e7bb3d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CamSmith",
@@ -556,7 +556,7 @@
       "id": "5pVFgzacZ4gM3iOFcFxasz",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273465be6cda98a1a6950a12964",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BennettSousa",
@@ -569,7 +569,7 @@
       "id": "02VX51QXZlZcubvkm5mQGg",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273720116f1ca27010471e0d10c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "Kai-WeiTeng",
@@ -582,7 +582,7 @@
       "id": "0IpXxtM0ZwUs9oWeXynUEQ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27338150aaa663aa364c0b89b2c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TaylorTrammell",
@@ -595,7 +595,7 @@
       "id": "7EIqakFnWSmh4QVU91sY4j",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733924202da73ed95999d60baa",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LoganVanWey",
@@ -608,7 +608,7 @@
       "id": "03ThZweiBWFP8tOGsk6QMO",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f2a7ea53a152b5b3ac9549a8",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DaultonVarsho",
@@ -621,7 +621,7 @@
       "id": "6qqrTXSdwiJaq8SO0X2lSe",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273457cfd5a54720ab3b0820064",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DaultonVarsho",
@@ -634,7 +634,7 @@
       "id": "6eAkHXT6OQHFMzPJT7g52d",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273dc817bca1c1fbef99d11c6d6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChristianVázquez",
@@ -647,7 +647,7 @@
       "id": "1ibAbmVpngm3LQGvAWqZXX",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fedf9447e8124e607ad2d496",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChristianVázquez",
@@ -660,7 +660,7 @@
       "id": "6pLYGP1FGsfhUFb3s9X1mz",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a1613504155a7c7ee4694c02",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NelsonVelázquez",
@@ -673,7 +673,7 @@
       "id": "0ynhqjP6gIxoaGTWibGhjc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27306f4a8ed737ccdac0984b650",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LaMonteWade Jr.",
@@ -686,7 +686,7 @@
       "id": "7hakCyC6VG1kZPkBGrFqVI",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c3cd750cd2840d427e849717",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChristianWalker",
@@ -699,7 +699,7 @@
       "id": "1vSx7Es6gf0OJEn5tGfVCs",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273834e4f71128c420e85d54c04",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChristianWalker",
@@ -712,7 +712,7 @@
       "id": "7CHi4DtfK4heMlQaudCuHK",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d43c59e52d6a8032a4e27fc4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "HaydenWesneski",
@@ -725,7 +725,7 @@
       "id": "0CWFczodn19J8r9dftuMMH",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ca00c58190a8054d17d4e2fe",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SpencerArrighetti",
@@ -738,7 +738,7 @@
       "id": "6xRWoYwfwIKnT8bQGzKbxR",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731bb797bbfe2480650b6c2964",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ShaneBieber",
@@ -751,7 +751,7 @@
       "id": "2tOZtdbkAMQASWokLvSlzj",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27394daf811f14ad48e6c5f9214",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DylanCease",
@@ -764,7 +764,7 @@
       "id": "5ZDojAF5yIkION3OmxlufW",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732d4e67b0c413648d53fa773f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ErnieClement",
@@ -777,7 +777,7 @@
       "id": "07q0QVgO56EorrSGHC48y3",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734384b6976cadaec272114022",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BraydonFisher",
@@ -785,12 +785,12 @@
       "mlbId": "680755",
       "s": "Savior",
       "a": "Rise Against",
-      "spotifyUrl": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB",
+      "spotifyUrl": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm",
       "p": "",
-      "id": "1vcxF91pWs9uNwDROuiCPB",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273eaa10fffa60de320846c28be",
+      "id": "3asFGFY3uLjMDmML1p0tYm",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273128020330aaa0b1513283caf",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "VladimirGuerrero Jr.",
@@ -803,7 +803,7 @@
       "id": "52UliTwJEbyXBBpNWbrX93",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d34f4f6b0487dcfe7e3d9c27",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AlejandroKirk",
@@ -816,7 +816,7 @@
       "id": "0R6NfOiLzLj4O5VbYSJAjf",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731501c770de50a22b25d67611",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChaseLee",
@@ -829,7 +829,7 @@
       "id": "5TdxgYYDfgSmwXMQxy5vVC",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273dbf895f32decaef75906ea84",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrendonLittle",
@@ -842,7 +842,7 @@
       "id": "3Wrjm47oTz2sjIgck11l5e",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NathanLukes",
@@ -855,7 +855,7 @@
       "id": "52riputZ4Vo5PG9MOSy6r5",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739f481503c07dd81ebfe003c9",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SpencerMiles",
@@ -868,7 +868,7 @@
       "id": "4pkb8SbRGeHAvdb87v9rpf",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27360d9e6851312e529730690d5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KazumaOkamoto",
@@ -881,7 +881,7 @@
       "id": "7yWg6M9FQfcCwTVxTQXwkq",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273951456f0fb8f7c80ede1cc56",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TylerRogers",
@@ -894,7 +894,7 @@
       "id": "3Pzh926pXggbMe2ZpXyMV7",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TylerRogers",
@@ -907,7 +907,7 @@
       "id": "1tdltVUBkiBCW1C3yB4zyD",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d807dd713cdfbeed142881e2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MaxScherzer",
@@ -920,7 +920,7 @@
       "id": "2PruYZKClv4ySmVd7D3WYh",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273cbbcf07e91f38775bfd09da5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DavisSchneider",
@@ -933,7 +933,7 @@
       "id": "1k2pQc5i348DCHwbn5KTdc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PaulSewald",
@@ -946,7 +946,7 @@
       "id": "6JymsaWDHk2Yj4e0yNBIFH",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c9f143444515b5106b0e4de5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoshSmith",
@@ -959,7 +959,7 @@
       "id": "4whkhyXTrTgHKZzkUvdwoq",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GeorgeSpringer",
@@ -972,7 +972,7 @@
       "id": "2cYqizR4lgvp4Qu6IQ3qGN",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MylesStraw",
@@ -985,7 +985,7 @@
       "id": "003vvx7Niy0yvhvHt4a68B",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JamesonTaillon",
@@ -998,7 +998,7 @@
       "id": "05f8Hg3RSfiPSCBQOtxl3i",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LuisUrías",
@@ -1011,7 +1011,7 @@
       "id": "1gjAVqB8sPT5i96wXUWcJR",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737e413b44697ff85a18bf0ee0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LouisVarland",
@@ -1024,7 +1024,7 @@
       "id": "56sk7jBpZV0CD31G9hEU3b",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e773763694ac5eb7f2aa0a37",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TreyYesavage",
@@ -1037,7 +1037,7 @@
       "id": "19LT4ZUEeoUdimKE04WJJg",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a7c2567138b38cd431455297",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "OzzieAlbies",
@@ -1050,7 +1050,7 @@
       "id": "5kHMdJLmN364FvFfky3AXI",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731adc99ebba9712010fd039e3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DylanDodd",
@@ -1063,7 +1063,7 @@
       "id": "28eg5bkYvIHT7HPmzZFwLN",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f4822f8034e697410a14a297",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MauricioDubón",
@@ -1076,7 +1076,7 @@
       "id": "71w26UK674tLfGtJFfDSjE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273294ea58a8ac4ae598c46d0b0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MichaelHarris II",
@@ -1089,7 +1089,7 @@
       "id": "50p9gmJMwsz3zyAwoF0FEv",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ab413812ddf711cb61adb782",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MichaelHarris II",
@@ -1102,7 +1102,7 @@
       "id": "2GFawZaMjG8QLxiR4OD3db",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27315c63783c035a7a56e5bd86e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MichaelHarris II",
@@ -1115,7 +1115,7 @@
       "id": "1TUHiLBQ6CVYZQOgnLjHbM",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738a93da98b40ebfe5d9b6f5a9",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrewerHicklen",
@@ -1128,7 +1128,7 @@
       "id": "35GACeX8Zl55jp29xFbvvo",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c3a6dc97601ba6afa87c6320",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GrantHolmes",
@@ -1141,7 +1141,7 @@
       "id": "1Hi6XYNirfRidjPo18UUq0",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273714745f86101ef8a0c84f1fc",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RaiselIglesias",
@@ -1154,7 +1154,7 @@
       "id": "51xgdfm7K2oKgWR63Vs3WA",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734cca40647f8b57382231a94e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "Ha-SeongKim",
@@ -1167,7 +1167,7 @@
       "id": "4jQDaI7FRGaDB0llURpnNf",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739b5b9760a4d371d2253f4d6f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DylanLee",
@@ -1180,7 +1180,7 @@
       "id": "1J5XEPamp7iQaCU0aFuMnd",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739edcf15aa5f593bc7ced5254",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TylerMahle",
@@ -1193,7 +1193,7 @@
       "id": "0wvIGFIgbyz4JNwQhZgTv2",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SeanMurphy",
@@ -1206,7 +1206,7 @@
       "id": "24PWKmemCvqfyVXODhoKHW",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c510ed25b9359f2888edb57f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MattOlson",
@@ -1219,7 +1219,7 @@
       "id": "0U1nO2frLx8w2dIsfvlP1d",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273911cda459bd531ddc3888236",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AustinRiley",
@@ -1232,7 +1232,7 @@
       "id": "0CAJdthKDdRjB2h8YOguN6",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d5fa46459e5489190606f47f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChrisSale",
@@ -1245,7 +1245,7 @@
       "id": "7MSwclTvW6KLLkTbmw9FUQ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RobertSuarez",
@@ -1258,7 +1258,7 @@
       "id": "2pr7niU3YfbVMQZxzsXubr",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27393fa2d35241009eca3aa16fa",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrentSuter",
@@ -1271,7 +1271,7 @@
       "id": "7jabOJVzZKWhHZgiTlxRua",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c49d79653037213b012c680e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RowdyTellez",
@@ -1284,7 +1284,7 @@
       "id": "7MSWxMumjz6lHj7oRApNbg",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734676b161854d2215819f0d32",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LaneThomas",
@@ -1297,7 +1297,7 @@
       "id": "48NthgcgfoRrWT8LtgW28A",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a70a80359930eea5bfdf11f5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MikeYastrzemski",
@@ -1310,7 +1310,7 @@
       "id": "05f8Hg3RSfiPSCBQOtxl3i",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JakeBauers",
@@ -1323,7 +1323,7 @@
       "id": "0OwvrdjaJOypNsNQHyBWE5",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c925139455d0480681315f02",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "WilliamContreras",
@@ -1336,7 +1336,7 @@
       "id": "6AI3ezQ4o3HUoP6Dhudph3",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SalFrelick",
@@ -1349,7 +1349,7 @@
       "id": "5l6xr4PINeDNGemLJp3gLu",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27306c154b967b7002489087ff2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RobertGasser",
@@ -1362,7 +1362,7 @@
       "id": "3z9AA2p7kCDX8Ds8Donb7l",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739550e26961358efe32cd89ac",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DLHall",
@@ -1375,7 +1375,7 @@
       "id": "1YA4Jn5uE82zSUUW17hnsP",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734d5597cf254c4d79967b78c5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DavidHamilton",
@@ -1388,7 +1388,7 @@
       "id": "3702l19pLmnSRKFEzDnVeM",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c1522381cb5d91ef16326867",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DavidHamilton",
@@ -1401,7 +1401,7 @@
       "id": "6bUNEbXT7HovLW6BgPCBsb",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DustinMay",
@@ -1414,7 +1414,7 @@
       "id": "08mG3Y1vljYA6bvDt4Wqkj",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TrevorMegill",
@@ -1427,7 +1427,7 @@
       "id": "4YPgTCGJWAlHQ5g6eWoM8r",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27320292e6cce666a69ba5a86fb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JacobMisiorowski",
@@ -1440,7 +1440,7 @@
       "id": "4C08r0fHSP5viel6sogOEC",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273193fd3d27b40617ef9893396",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GarrettMitchell",
@@ -1453,7 +1453,7 @@
       "id": "4WuOWVnAqvEQxgSRrspBgt",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoeyOrtiz",
@@ -1466,7 +1466,7 @@
       "id": "7oAnV2PAXpIy7fa87gvUsy",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273eb0745273c30bee15fb38cd9",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChadPatrick",
@@ -1474,12 +1474,12 @@
       "mlbId": "694477",
       "s": "I Wrote The Book",
       "a": "Morgan Wallen",
-      "spotifyUrl": "https://open.spotify.com/track/34JNNjLjtEAnn1PTVlSYcP",
+      "spotifyUrl": "https://open.spotify.com/track/55uX7uGvi9LNkIcY087lYy",
       "p": "",
-      "id": "34JNNjLjtEAnn1PTVlSYcP",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733a0b2dad18765de8f6d1ea22",
+      "id": "55uX7uGvi9LNkIcY087lYy",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c37a94d92b0a874ba2419ed7",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CooperPratt",
@@ -1492,7 +1492,7 @@
       "id": "383Xl5QTigwj3QiA3Qc6S7",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273cd6ddc8045040e94aa89f4b0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoJoRomero",
@@ -1505,7 +1505,7 @@
       "id": "7cpFmkNmh3MM0WqXPSbs9f",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737f21e1d44b7dbb3940f6a93b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GarySánchez",
@@ -1518,7 +1518,7 @@
       "id": "0OMRAvrtLWE2TvcXorRiB9",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731e3b9d4d53e0ac334cd9eec4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BriceTurang",
@@ -1531,7 +1531,7 @@
       "id": "1X4Ntw6Lbaa1ACgilCqMpr",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27395741aa186187b05e0653245",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AbnerUribe",
@@ -1544,7 +1544,7 @@
       "id": "5jFA0f4ZDGLbQP4nxzL8D4",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bdd9200ece04b83fe196978e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AndrewVaughn",
@@ -1557,7 +1557,7 @@
       "id": "6jXPZid0KLorvgIDP6TiSo",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27390c9072fbd484299e0f624ca",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoshuaBáez",
@@ -1570,7 +1570,7 @@
       "id": "5YJ4BVvTFmVCxUyhKejHfR",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27372b621a4c23f797307d35f11",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LeoBernal",
@@ -1583,7 +1583,7 @@
       "id": "79ZQSaNEXX2c4pVh7NN8US",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a471490ae445dcecd465615b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JustinBruihl",
@@ -1596,7 +1596,7 @@
       "id": "4Yqy0GpeDEXLibWJCZyQew",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fc30908354ee3be55dc6feb2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AlecBurleson",
@@ -1609,7 +1609,7 @@
       "id": "0GRT9P0kiULOW4VDDVROfk",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f73aa4c0f4c4ffa7ddd77b6e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NathanChurch",
@@ -1622,7 +1622,7 @@
       "id": "4wc8FpW9XCUaoxtii3CiCf",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a77e3a79960fdd90ca36e555",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JimmyCrooks",
@@ -1635,7 +1635,7 @@
       "id": "3BzlZAqfnZDjv1F5CLlpHx",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738f4d24124c0d5b6f413d9624",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "HunterDobbins",
@@ -1648,7 +1648,7 @@
       "id": "54r8LbjbkteZinSu6REzY7",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734fefb530393b80c369dda562",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoséFermín",
@@ -1661,7 +1661,7 @@
       "id": "3h5T5JypYU7huFiVYhv1dr",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyanFernandez",
@@ -1674,7 +1674,7 @@
       "id": "3Do9OaGPLuacYx0W3DqSQj",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733aab1b1f5e53fb9921416c04",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RichardFitts",
@@ -1687,7 +1687,7 @@
       "id": "2zT5npcA5n2RhhnBiWg3zo",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NolanGorman",
@@ -1700,7 +1700,7 @@
       "id": "03tqyYWC9Um2ZqU0ZN849H",
       "artworkUrl": "https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GordonGraceffo",
@@ -1713,7 +1713,7 @@
       "id": "27mgDrExPa3obPAYXd3yQg",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "IvánHerrera",
@@ -1726,7 +1726,7 @@
       "id": "5GZ4tx6VZxM7V4IQtSJFyx",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "IvánHerrera",
@@ -1739,7 +1739,7 @@
       "id": "33ZXjLCpiINn8eQIDYEPTD",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733789f564b75140c1fd2228cc",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CooperHjerpe",
@@ -1752,7 +1752,7 @@
       "id": "1OVbFAwbXXPKKMlLq8tKbW",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731ad345f131d9aeb505974e86",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BlazeJordan",
@@ -1765,7 +1765,7 @@
       "id": "2NAZcL9tLUkdMMb5v3xFVG",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d1af058e277fef0c00b6aa4b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KyleLeahy",
@@ -1778,7 +1778,7 @@
       "id": "7qdUh781Z0x7ytrnKtPmaq",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735d964dfdc8e10d7e6cd6162b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MatthewLiberatore",
@@ -1791,7 +1791,7 @@
       "id": "3SWqGa1J0M7hSBUDM0KePD",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c469e75608b59994c1c422be",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "QuinnMathews",
@@ -1804,7 +1804,7 @@
       "id": "5TRPicyLGbAF2LGBFbHGvO",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrycenMautz",
@@ -1817,7 +1817,7 @@
       "id": "2HbKqm4o0w5wEeEFXm2sD4",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MichaelMcGreevy",
@@ -1830,7 +1830,7 @@
       "id": "5UWwZ5lm5PKu6eKsHAGxOk",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RileyO'Brien",
@@ -1843,7 +1843,7 @@
       "id": "661wc0CTq5MbppEG6zYP5n",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273cfae92bfa188457b4bee0055",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PedroPagés",
@@ -1856,7 +1856,7 @@
       "id": "1AKXrejQiFURJnr9UKIjDb",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732cfffad80cdfc9770967f601",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AndrePallante",
@@ -1869,7 +1869,7 @@
       "id": "1hc31O4qhv2tnSnW1290KC",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273150d704ba401da31dd3ff91f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EversonPereira",
@@ -1882,7 +1882,7 @@
       "id": "6V3cLbC6pKgn2vQkqkykhi",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c3adba49ab595b7a6e6d1f2c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CésarPrieto",
@@ -1895,7 +1895,7 @@
       "id": "3sK8wGT43QFpWrvNQsrQya",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ThomasSaggese",
@@ -1908,7 +1908,7 @@
       "id": "1TfqLAPs4K3s2rJMoCokcS",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "VictorScott II",
@@ -1921,7 +1921,7 @@
       "id": "2MjXWroB9wlTG2kqv3avfS",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273422237a4122460c2fa99c135",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "VictorScott II",
@@ -1934,7 +1934,7 @@
       "id": "1Hv1VTm8zeOeybub15mA2R",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GeorgeSoriano",
@@ -1947,7 +1947,7 @@
       "id": "0BVeuA1uuuket3SOadIDKm",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737a5a4ad729608e7fd8cdd7ba",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyneStanek",
@@ -1960,7 +1960,7 @@
       "id": "3n4cCOBMqolImjZXPwWg1f",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b986942966fc442a970a2879",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BryanTorres",
@@ -1973,7 +1973,7 @@
       "id": "1Xr3x1zElsBYlFzTvS60c8",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739ebaeb99d8a1ada6683b12ea",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BryanTorres",
@@ -1986,7 +1986,7 @@
       "id": "47BBI51FKFwOMlIiX6m8ya",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JordanWalker",
@@ -1999,7 +1999,7 @@
       "id": "3kgQ1kJC1WkuYVJuNJHPGA",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273434f4eeb4231f6f4862cafd4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JJWetherholt",
@@ -2012,7 +2012,7 @@
       "id": "73HaBYHGkb2uYTvRmKaf4u",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c1cef39342ebe2bf36a98017",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MasynWinn",
@@ -2025,7 +2025,7 @@
       "id": "6JZYMxvcoeLD4IifJPvDux",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273eb15b69407230b713423d3cb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CadeWinquest",
@@ -2038,7 +2038,7 @@
       "id": "0lvhEsN1zkMzfp2M1o17yy",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730436e7b2f1dc434862bb8354",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KevinAlcántara",
@@ -2051,7 +2051,7 @@
       "id": "12Ypr3PCVJ2i7Uwz93q1Vl",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739c11e6241d59940a0157c75a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MiguelAmaya",
@@ -2064,7 +2064,7 @@
       "id": "05RgAMGypEvqhNs5hPCbMS",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MiguelAmaya",
@@ -2077,7 +2077,7 @@
       "id": "0K1XXuhaJBPWMcgjj3ug3u",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273674f4e6a042369cbbacb3a9e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JavierAssad",
@@ -2090,7 +2090,7 @@
       "id": "5EaQLzvlO0TefeD4QyUJzx",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736e48fe98a1474cdaeb119f45",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MatthewBoyd",
@@ -2103,7 +2103,7 @@
       "id": "2AxCeJ6PSsBYiTckM0HLY7",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MichaelBusch",
@@ -2116,7 +2116,7 @@
       "id": "3WUkLypsJEqi8hhop2A5GS",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273465be6cda98a1a6950a12964",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EdwardCabrera",
@@ -2129,7 +2129,7 @@
       "id": "0U1nO2frLx8w2dIsfvlP1d",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273911cda459bd531ddc3888236",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AaronCivale",
@@ -2142,7 +2142,7 @@
       "id": "6kooDsorCpWVMGc994XjWN",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732dae35818253ccb1cd0cd87d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MichaelConforto",
@@ -2155,7 +2155,7 @@
       "id": "3f3ujFD6YndqRRVYuBcq7T",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d3b3026eafc7def669b0213a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PeteCrow-Armstrong",
@@ -2168,7 +2168,7 @@
       "id": "3qhlB30KknSejmIvZZLjOD",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273987466cc3363ea26094ca3c4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PeteCrow-Armstrong",
@@ -2181,7 +2181,7 @@
       "id": "6H0AwSQ20mo62jGlPGB8S6",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KevinGausman",
@@ -2194,7 +2194,7 @@
       "id": "61rfQ3Kqj4NeYCCJHNt7qj",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27324c6558b03a69581bfcbb711",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "IanHapp",
@@ -2207,7 +2207,7 @@
       "id": "1nqdQ7yjDBL5NnPF5MnOwr",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27324d3e4f55a5974eecc6b29fb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "IanHapp",
@@ -2220,7 +2220,7 @@
       "id": "4iCKHGl4ij4YMwFrUZLGEQ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735c0d6a1ace5782f888a203e8",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "IanHapp",
@@ -2233,7 +2233,7 @@
       "id": "7CHi4DtfK4heMlQaudCuHK",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d43c59e52d6a8032a4e27fc4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NicoHoerner",
@@ -2246,7 +2246,7 @@
       "id": "4kjI1gwQZRKNDkw1nI475M",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NicoHoerner",
@@ -2259,7 +2259,7 @@
       "id": "7pdF27mSDuPWhppnHAmWHa",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273da9e59639a9759d8952890c6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GavinHollowell",
@@ -2272,7 +2272,7 @@
       "id": "2JriDvQe21Ps5MblLqv4DK",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735ed06a9d08835b6ae0e119c2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ClayHolmes",
@@ -2285,7 +2285,7 @@
       "id": "7MSWxMumjz6lHj7oRApNbg",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734676b161854d2215819f0d32",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ShotaImanaga",
@@ -2298,7 +2298,7 @@
       "id": "3ItzRpwvKtkDSNdRSjXu7Z",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27390b7c466e878862b5a9cece3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CarsonKelly",
@@ -2311,7 +2311,7 @@
       "id": "7b4yGtR0rujvLi5EBfKKJ2",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b49692931b75588a8453d4c6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DanielPalencia",
@@ -2324,7 +2324,7 @@
       "id": "5YoITs1m0q8UOQ4AW7N5ga",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27311b9999b620ef9bc0e957623",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DavidPeterson",
@@ -2337,7 +2337,7 @@
       "id": "1ju7EsSGvRybSNEsRvc7qY",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PedroRamírez",
@@ -2350,7 +2350,7 @@
       "id": "1G1oltHy7huusOr9eoUUQM",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273224274d2235df33995544234",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ColinRea",
@@ -2358,12 +2358,12 @@
       "mlbId": "607067",
       "s": "red (feat. Morgan Wallen)",
       "a": "HARDY",
-      "spotifyUrl": "https://open.spotify.com/track/6GBXOabwqSAI5A75F3FruX",
+      "spotifyUrl": "https://open.spotify.com/track/6LLe2s3JrbawMkHzgyYeek",
       "p": "",
-      "id": "6GBXOabwqSAI5A75F3FruX",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fd6559329866163a6c4919d2",
+      "id": "6LLe2s3JrbawMkHzgyYeek",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27375568a0c386d12fd0e88ea00",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MattShaw",
@@ -2376,7 +2376,7 @@
       "id": "4OxOqklOXdaMus3nB1DM7X",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739c279348e3747dcf9a84b95c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MattShaw",
@@ -2389,7 +2389,7 @@
       "id": "1OVbFAwbXXPKKMlLq8tKbW",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731ad345f131d9aeb505974e86",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SeiyaSuzuki",
@@ -2402,7 +2402,7 @@
       "id": "2DZ8KRBG8FBQOQBGk6hmZz",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273762fe3b61b1844f4ec0ec996",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SeiyaSuzuki",
@@ -2415,7 +2415,7 @@
       "id": "2YkIDPL5lGhRhomCq4S2RO",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DansbySwanson",
@@ -2428,7 +2428,7 @@
       "id": "6vjpQIdABqntoe3zPazPec",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TyroneTaylor",
@@ -2441,7 +2441,7 @@
       "id": "3BUWNzPWz2mDbptZmGEXpB",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CalebThielbar",
@@ -2454,7 +2454,7 @@
       "id": "7zgt5WiLyYncBGWp3ImJ6x",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273996dae763ad1dffdb3195794",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JacobWebb",
@@ -2467,7 +2467,7 @@
       "id": "4dDurgTN3eGyU0ghzFJ0T1",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyanZeferjahn",
@@ -2480,7 +2480,7 @@
       "id": "0ZyATfTcQN9uXNbdJEDlAP",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273877a008199ef1a377725294f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NolanArenado",
@@ -2493,7 +2493,7 @@
       "id": "6KqM3xmPIDonsTjCSGrrr5",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732ae2ed5bc30ffd941d29d4ac",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CorbinBurnes",
@@ -2506,7 +2506,7 @@
       "id": "4OMj5QWwvYSUs9O0hsymts",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273680ac0a0e8f39e6e2ae80406",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoseCabrera",
@@ -2519,7 +2519,7 @@
       "id": "4qFki71krG6qDfC8iP78f3",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27358b5af849d3bb97f91d66caf",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CorbinCarroll",
@@ -2532,7 +2532,7 @@
       "id": "4ygJHbpMGwZknVFaRikdFr",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TaylorClarke",
@@ -2545,7 +2545,7 @@
       "id": "3dPQuX8Gs42Y7b454ybpMR",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737028981d09d2e5833c9c78ad",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AdrianDel Castillo",
@@ -2558,7 +2558,7 @@
       "id": "3WGPgkvKCMyx5Y48YNpgaS",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737ce8db07e711e09e5a41e660",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoseFernandez",
@@ -2571,7 +2571,7 @@
       "id": "4vUcoqQTwNQkkzb73UYh3L",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f93c14b8d167ee9511e17ef0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ZacGallen",
@@ -2584,7 +2584,7 @@
       "id": "14Y3DZA1A8XpZBcZKfYkPV",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732e782ea4a117beef9edecdd2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrandynGarcia",
@@ -2597,7 +2597,7 @@
       "id": "2gZUPNdnz5Y45eiGxpHGSc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KevinGinkel",
@@ -2610,7 +2610,7 @@
       "id": "7x8dCjCr0x6x2lXKujYD34",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739d957247c6c610cb7c4da1c5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MerrillKelly",
@@ -2623,7 +2623,7 @@
       "id": "1D9XLqQp2YYiOxrr5KLb8K",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JordanLawlar",
@@ -2636,7 +2636,7 @@
       "id": "3m5kR0GClMpR7gLc1ZZC2S",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b611118e478150fa74c89b0b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JordanLawlar",
@@ -2649,7 +2649,7 @@
       "id": "6VciS3dRMpZhJiDxT8ArFi",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734d76bba22c162a1fb3d52039",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JonathanLoáisiga",
@@ -2662,7 +2662,7 @@
       "id": "0G21yYKMZoHa30cYVi1iA8",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KetelMarte",
@@ -2675,7 +2675,7 @@
       "id": "4fJWoaQqGZwp3quw9OpLMe",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bcc30c5fa48fca3218c3ffa4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JustinMartinez",
@@ -2688,7 +2688,7 @@
       "id": "0Dl00EZBJHkkdsSZIBK8Sb",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c86fdfc227d346db14824373",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JustinMartinez",
@@ -2701,7 +2701,7 @@
       "id": "0V8Lfj3q1JyiKNBkHiQR4k",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732d1dcd542a31bb7c751cff28",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JamesMcCann",
@@ -2714,7 +2714,7 @@
       "id": "4cLC8gydI0O78g8chZugS4",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b25c8f8668a0751b6c87cace",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GabrielMoreno",
@@ -2727,7 +2727,7 @@
       "id": "74UKvcqvGS87RwCnSvmFfW",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c683391dfff278a27e3faf27",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GabrielMoreno",
@@ -2740,7 +2740,7 @@
       "id": "4cyYC67XY3weSVmSLdKLP8",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734640a26eb27649006be29a94",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JuanMorillo",
@@ -2753,7 +2753,7 @@
       "id": "5YJ4BVvTFmVCxUyhKejHfR",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27372b621a4c23f797307d35f11",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyneNelson",
@@ -2766,7 +2766,7 @@
       "id": "6i9pkZHJIlQjWUkKLI3bSv",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273eba5c89fb31b62c230684b00",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LarsNootbaar",
@@ -2779,7 +2779,7 @@
       "id": "7D5gkUVhkLbe5e8qG1NqcZ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27360e5059dcab339142d7642bb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GeraldoPerdomo",
@@ -2792,7 +2792,7 @@
       "id": "6uYRCWlyNA025TZmAdblZC",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273465be6cda98a1a6950a12964",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GeraldoPerdomo",
@@ -2805,7 +2805,7 @@
       "id": "1n0TsUxmeI0Q9alRpxlFF3",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735c73586fc97e6e4ad63f8ec4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrandonPfaadt",
@@ -2818,7 +2818,7 @@
       "id": "2usrT8QIbIk9y0NEtQwS4j",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a46d603701aa0342e8cca64e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EduardoRodriguez",
@@ -2831,7 +2831,7 @@
       "id": "7e4zDInS6tA2jwzphvs2Ay",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273450a730dd72f3bf49882ae9d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DennisSantana",
@@ -2844,7 +2844,7 @@
       "id": "2K7sv1mno9PvbXVBpqvSKn",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731e146244cf70b7aab703c057",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PavinSmith",
@@ -2857,7 +2857,7 @@
       "id": "7gOa6EK3ouYTTXvMfLIvQq",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737cd7cb0535d4795ac0c11150",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MichaelSoroka",
@@ -2870,7 +2870,7 @@
       "id": "6qLEOZvf5gI7kWE63JE7p3",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fc90a8ed9924435d62235aa8",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TimTawa",
@@ -2883,7 +2883,7 @@
       "id": "6ndmKwWqMozN2tcZqzCX4K",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273617b7d3433ff3a447faa7c08",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TommyTroy",
@@ -2896,7 +2896,7 @@
       "id": "3Ygb9jYG5TeibrrKJzCPmV",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27350332d1d23d28482b2a72cdd",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "IldemaroVargas",
@@ -2909,7 +2909,7 @@
       "id": "7bmdCzMO7PQWwgSB7npXc5",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c01825fd492fdba6e813cc46",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyanWaldschmidt",
@@ -2922,7 +2922,7 @@
       "id": "2bLqfJjuC5syrsgDsZfGmn",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734ed674ab91bdc566534f9285",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MookieBetts",
@@ -2935,7 +2935,7 @@
       "id": "6c6WmIHcHlhccEwSFBhzNa",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734b9f1fe8e25964302c5752b2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MookieBetts",
@@ -2948,7 +2948,7 @@
       "id": "0Ss50OU9tCozI7JIywkv14",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e647a3be0956a5d9769f0444",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KrisBubic",
@@ -2961,7 +2961,7 @@
       "id": "1dB0NylVkpjdOe8DiekIs7",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c11ba539d58741bbd1332c92",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EdwinDíaz",
@@ -2974,7 +2974,7 @@
       "id": "4TuNI3WEMyLQAKRMJmcQdA",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734e84fbb29ea637c12cca5cb4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TommyEdman",
@@ -2987,7 +2987,7 @@
       "id": "6uBhi9gBXWjanegOb2Phh0",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b993cba8ff7d0a8e9ee18d46",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "HunterFeduccia",
@@ -3000,7 +3000,7 @@
       "id": "2wGSgTmgSF3xjRrHkTc25R",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "FreddieFreeman",
@@ -3013,7 +3013,7 @@
       "id": "0Dl00EZBJHkkdsSZIBK8Sb",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c86fdfc227d346db14824373",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TeoscarHernández",
@@ -3026,7 +3026,7 @@
       "id": "089AiC3OJrIialClf4x86B",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b3294ce90d7ffab2cf1ded01",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TeoscarHernández",
@@ -3039,7 +3039,7 @@
       "id": "2xcHJ5YpRL7wgSfsBnIktB",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a5e45cc0dc2afb858f861736",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MaxMuncy",
@@ -3052,7 +3052,7 @@
       "id": "4Sb8neYCkT7lyMIo2kOOEC",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738337dd45f445c35f7292a81e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MaxMuncy",
@@ -3065,7 +3065,7 @@
       "id": "1Tip6R4swhC7E6hgILBjrE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273136d46f65c783bd9742dfc6d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ShoheiOhtani",
@@ -3078,7 +3078,7 @@
       "id": "4NTWZqvfQTlOMitlVn6tew",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737a9205f3712b2bd1b98198dc",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TarikSkubal",
@@ -3091,7 +3091,7 @@
       "id": "37jTPJgwCCmIGMPB45jrPV",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27316667761b90f600c1d7b08e6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "WillSmith",
@@ -3104,7 +3104,7 @@
       "id": "4xhsWYTOGcal8zt0J161CU",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733a5390aae0708eefa335b4bf",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KyleTucker",
@@ -3117,7 +3117,7 @@
       "id": "5259GVdvIOBkcqo6L2i9qw",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735888e780b74d9b57ed6527ed",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AlexVesia",
@@ -3130,7 +3130,7 @@
       "id": "5ih5herXfvp5coBVFhmoAW",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731085abdeea4d93b7c1d39554",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "YoshinobuYamamoto",
@@ -3143,7 +3143,7 @@
       "id": "0BzJRQvAUV9KzzBqo3bMCZ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fbe1d14e4b7533b72cffd719",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "WillyAdames",
@@ -3156,7 +3156,7 @@
       "id": "4zTSSrtsaVVjT3RZKQ1Gqn",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733242fdd0d5f5c1dfe49ce924",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "OsleivisBasabe",
@@ -3169,7 +3169,7 @@
       "id": "0ptku7rEZ0P5waxUzR16GY",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27353a54adfae5c355f96a84edf",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TristanBeck",
@@ -3182,7 +3182,7 @@
       "id": "0PdM2a6oIjqepoEfcJo0RO",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273222cb38afc3b3b47d9df26aa",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "VictorBericoto",
@@ -3195,7 +3195,7 @@
       "id": "6gtXTPdnun27QGY51a349l",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27367e7a878f46ce65985fea85a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JTBrubaker",
@@ -3208,7 +3208,7 @@
       "id": "0nkzd3yNniB767zSDDdLZ3",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27389f8d16ffe15fccfa0a7e31d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JonahCox",
@@ -3221,7 +3221,7 @@
       "id": "5Ev3sAE6AN0baPJKe3vcy1",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27372616215eb4c30c5a9af9031",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CamiloDoval",
@@ -3234,7 +3234,7 @@
       "id": "1uWves4S89RPNHMMM28H0x",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27366839b4a8e991d61ab59652d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BryceEldridge",
@@ -3247,7 +3247,7 @@
       "id": "0IlYvLvA257FhOau31pOK8",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733063a4b9290f7419622ff231",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JasonFoley",
@@ -3260,7 +3260,7 @@
       "id": "7JkZ2hQdDonRURJjlMuh8q",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27338b92df39be851a091a886de",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DrewGilbert",
@@ -3273,7 +3273,7 @@
       "id": "5ZAMlvo6ZUjVRZOGu2bJib",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27399f0c412a5d80626ae972cf4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SamHentges",
@@ -3286,7 +3286,7 @@
       "id": "4aou5BwOCw67IRqTfw5Qta",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a784bd7f2cebf874cfa7a651",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AndrewKnizner",
@@ -3299,7 +3299,7 @@
       "id": "00qOE7OjRl0BpYiCiweZB2",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733cd67ccf241ae843f6da62f3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChristianKoss",
@@ -3312,7 +3312,7 @@
       "id": "2Ty7EDf9XLYzEUqEIwJfDC",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736de4e4aeed026242fae9e56a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "Jung HooLee",
@@ -3325,7 +3325,7 @@
       "id": "1GlxX9GIiWDlOMhn3Ghldf",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273af4553ebde7838de766a472e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MarceloMayer",
@@ -3338,7 +3338,7 @@
       "id": "6PhRhocBXP4y7NpciGmzra",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739b4a2665bec0fc42d55a1215",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GrantMcCray",
@@ -3351,7 +3351,7 @@
       "id": "2MShy1GSSgbmGUxADNIao5",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AnthonyMolina",
@@ -3364,7 +3364,7 @@
       "id": "6VQ2fI8goSX8mpSvytXkXR",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739b9eb783c20af41d7011f9c2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LandenRoupp",
@@ -3377,7 +3377,7 @@
       "id": "6fhgO6p9DsTyHqPctyzDkV",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273664369d876deb40cedc5cffa",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ReiverSanmartin",
@@ -3390,7 +3390,7 @@
       "id": "3v32VtMTRZbIQJUFsQpeJD",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273560b0cf43f17144a3a2e7039",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DylanSmith",
@@ -3403,7 +3403,7 @@
       "id": "3XQY8kDjI8LARMIC9xkxQk",
       "artworkUrl": "https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyanWalker",
@@ -3416,7 +3416,7 @@
       "id": "1fqXdCLVHi2o5nHoANQ8XF",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732d90c405b00f83fe4e517220",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ShayWhitcomb",
@@ -3429,7 +3429,7 @@
       "id": "05CjWFAcAlY6O9po6Qwakk",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27344cfd85001629f8f476d2723",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ShawnArmstrong",
@@ -3442,7 +3442,7 @@
       "id": "6jXPZid0KLorvgIDP6TiSo",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27390c9072fbd484299e0f624ca",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PatrickBailey",
@@ -3455,7 +3455,7 @@
       "id": "50utqknCBo0N3QAQbXIPKV",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27308514486451188b525106b88",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TannerBibee",
@@ -3468,7 +3468,7 @@
       "id": "5gOfC9UzZQzTyShqPMrpjT",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoeyCantillo",
@@ -3481,7 +3481,7 @@
       "id": "3GedSbAZiOctXY4ZoFCXwa",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27385218f473196282bdb546341",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DavidFry",
@@ -3494,7 +3494,7 @@
       "id": "1ppTqTBXqnlVGPxlluGHRE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273015b740ee3bc1f5ae4556aa2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "HunterGaddis",
@@ -3507,7 +3507,7 @@
       "id": "666uqvKyW6bBOFVhh11kq1",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733d6b2cc4a2a1995e78bf9d7e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AustinHedges",
@@ -3520,7 +3520,7 @@
       "id": "1ckLp8lCl8LipXI0ypX72m",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TimHerrin",
@@ -3533,7 +3533,7 @@
       "id": "2JvzF1RMd7lE3KmFlsyZD8",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737f37a4001ae7d8be430bd91b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NathanielLowe",
@@ -3546,7 +3546,7 @@
       "id": "42T2QQv3xgBlpQxaSP7lnK",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a32f2ae4dade83e0d7a294f4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrayanRocchio",
@@ -3559,7 +3559,7 @@
       "id": "6LAE0cwzbk9Gr1uexKnA2B",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b38a36ba3f00c58ab9527df7",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DanielSchneemann",
@@ -3572,7 +3572,7 @@
       "id": "3BUWNzPWz2mDbptZmGEXpB",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CadeSmith",
@@ -3585,7 +3585,7 @@
       "id": "1ctrJmczPsVgfQv6ZUoALD",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27349650271cfb119ad20bce6dd",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GavinWilliams",
@@ -3598,7 +3598,7 @@
       "id": "7u4pe8R8Ti1RMVTh7036Hi",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273612486b1b73221cf83d8c8cf",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EduardBazardo",
@@ -3611,7 +3611,7 @@
       "id": "2dd3G3ZqEcG2cNS1tp3oEk",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27353596a050e8369c51da11029",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyanBliss",
@@ -3624,7 +3624,7 @@
       "id": "4vCxUFx6YwGoqICQK8DmiM",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27317255264be464e734a3ad98b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DominicCanzone",
@@ -3637,7 +3637,7 @@
       "id": "7IBSffWIu7P2MC7kMwy2FM",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27318e5ce518aa01d733116a275",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "J.P.Crawford",
@@ -3650,7 +3650,7 @@
       "id": "0PaMOhsp96fKHGFNrnmR81",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d8673bc50c11e5d6ecfaa4b1",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "J.P.Crawford",
@@ -3663,7 +3663,7 @@
       "id": "7vggqxNKwd6xdRoYS0pQtM",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273413a6c2c7b296d98171e5e21",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrendanDonovan",
@@ -3676,7 +3676,7 @@
       "id": "4mCf3vQf7z0Yseo0RxAi3V",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "José A.Ferrer",
@@ -3689,7 +3689,7 @@
       "id": "0lvkqN2wPat5dS0geCx2a3",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273dbd362c8d32b77f64a5f1ef2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LoganGilbert",
@@ -3702,7 +3702,7 @@
       "id": "1DIXPcTDzTj8ZMHt3PDt8p",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737438996f6fe67c59d75d4e43",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EmersonHancock",
@@ -3715,7 +3715,7 @@
       "id": "6DZLxLpjjEvaoBWwyRTj0Z",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738eaef4a59458b92ec686fdce",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GeorgeKirby",
@@ -3728,7 +3728,7 @@
       "id": "2Hw4SsuMEF8P8k4On3uoSx",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27331188b958a59d12b5100a9de",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "WillieMacIver",
@@ -3741,7 +3741,7 @@
       "id": "0bXFIF7iL17TYLyx8JHziM",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BryceMiller",
@@ -3754,7 +3754,7 @@
       "id": "6yggZbtgrxPNwWOs06cS8L",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f76b0fb2ea247c31d112a6da",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "HobyMilner",
@@ -3767,7 +3767,7 @@
       "id": "4e9hUiLsN4mx61ARosFi7p",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27306c0d7ebcabad0c39b566983",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AndrésMuñoz",
@@ -3780,7 +3780,7 @@
       "id": "5fWG4JDot8nHCte7gUdMUS",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273994d5e56f76aeee3ce05cf42",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoshNaylor",
@@ -3793,7 +3793,7 @@
       "id": "3UmaczJpikHgJFyBTAJVoz",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CalRaleigh",
@@ -3806,7 +3806,7 @@
       "id": "1nVoLxz8C0uGgMKfywy0vf",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bfc053859e5116c5eeca9843",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "VictorRobles",
@@ -3819,7 +3819,7 @@
       "id": "1EfhtGf72X5MYFpWgqIqXP",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a14e4560ec7aad77e228050f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JulioRodríguez",
@@ -3832,7 +3832,7 @@
       "id": "0ko0sZ5hNieT3LRq2lOGl3",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ec98ee7272a76b046ae20ee1",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GabeSpeier",
@@ -3845,7 +3845,7 @@
       "id": "0Tr5G2mE56eLUGvCaXRM8I",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TroyTaylor",
@@ -3858,7 +3858,7 @@
       "id": "5ghIJDpPoe3CfHMGu71E6T",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CarlosVargas",
@@ -3871,7 +3871,7 @@
       "id": "2W3yXiP3WZvx6zWzFF3Yoe",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273853a884c419f835dd92ca4e8",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "WestonWilson",
@@ -3884,7 +3884,7 @@
       "id": "63SevszngYpZOwf63o61K4",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734dbdd4d3c69bec0d471fc479",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PatrickWisdom",
@@ -3897,7 +3897,7 @@
       "id": "6eF9HLVa6k163wJyHjbN4V",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27313cdb94ae3df6892fa914d26",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BryanWoo",
@@ -3910,7 +3910,7 @@
       "id": "0Xyapgw7NB8xf5ZvRQbwV6",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734d87da4d821ab59f9ab48919",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ColeYoung",
@@ -3923,7 +3923,7 @@
       "id": "2Hh3ETdQKrmSI3QS0hme7g",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SandyAlcantara",
@@ -3936,7 +3936,7 @@
       "id": "4yZI69ElgxddAUGNJjzc0j",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732122caf65fe96e3ee79d742e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AnthonyBender",
@@ -3949,7 +3949,7 @@
       "id": "1XxUDJp9zsjd6tBSvE3la4",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27391c500e5ce12058cf4c569c6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ZachBrzykcy",
@@ -3962,7 +3962,7 @@
       "id": "1kY6OOTBmRNzhYmu9xSH3a",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GriffinConine",
@@ -3975,7 +3975,7 @@
       "id": "2MA6YoaFF7fnWqkuOAWjUg",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "XavierEdwards",
@@ -3988,7 +3988,7 @@
       "id": "0bkV1iQHSxBaksUqgEkcbc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PeteFairbanks",
@@ -4001,7 +4001,7 @@
       "id": "24CRDgNOgA72JLL7PHFjgB",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d9d27e5b56e2b983e54dba64",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyanGusto",
@@ -4014,7 +4014,7 @@
       "id": "4cZHdXh4bvtDripgwzwO81",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e9ae362d2659143977466b13",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "HeribertoHernández",
@@ -4027,7 +4027,7 @@
       "id": "1dftE4cOipKIrU94LyKWZf",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f6ced4d0e737afc5d9654b0f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JansonJunk",
@@ -4040,7 +4040,7 @@
       "id": "215wUTQQUo2PElJFEFoB0d",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "OttoLopez",
@@ -4053,7 +4053,7 @@
       "id": "0UFSU9k3EvLRyTdzW5BzGb",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273376bc63e136dbcb7eeab00c6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "OttoLopez",
@@ -4066,7 +4066,7 @@
       "id": "3oN3f5utpgU6XxKTg4MmDs",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a447e5792ca5bbc4c92abf69",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GrahamPauley",
@@ -4079,7 +4079,7 @@
       "id": "1uigwk5hNV84zRd5YQQRTk",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273861f87fea3ad0f7b23453780",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EuryPérez",
@@ -4092,7 +4092,7 @@
       "id": "6NSMQFKgjpQb0KkjMDYIK0",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739bf23abed0a1e730a90d3490",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EuryPérez",
@@ -4105,7 +4105,7 @@
       "id": "2v9Ag8lh0B21ulpLyh9Wvo",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273981f64e23737634128da1002",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TylerPhillips",
@@ -4118,7 +4118,7 @@
       "id": "7Gs3otHnZDq514kFHf0nx7",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730a6f4e78a01fd779ebaace83",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AgustínRamírez",
@@ -4131,7 +4131,7 @@
       "id": "08u6OiZL942XUl6lULfH8r",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273962e6d1a1d98cc28be0edd40",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EsteuryRuiz",
@@ -4139,12 +4139,12 @@
       "mlbId": "665923",
       "s": "La Copa",
       "a": "Don Omar",
-      "spotifyUrl": "https://open.spotify.com/track/4UE4VYIuYdq7up2z6Tu0u7",
+      "spotifyUrl": "https://open.spotify.com/track/0sBubIMpgUJ0HvKnazilEA",
       "p": "",
-      "id": "4UE4VYIuYdq7up2z6Tu0u7",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273df744ef00b67b1a71e87da36",
+      "id": "0sBubIMpgUJ0HvKnazilEA",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737d8587420b475a1cff51fb94",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JavierSanoja",
@@ -4157,7 +4157,7 @@
       "id": "5YFKPBVm78Dqtxwmi0rg1Z",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273604e732de0b9685114cf7022",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JavierSanoja",
@@ -4170,7 +4170,7 @@
       "id": "46Ii3D5jp8tFRvLXajPrcP",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b7729c5953c437756d0b99a8",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KyleStowers",
@@ -4183,7 +4183,7 @@
       "id": "0doGyGo63mbdYn7gQcTSx4",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273083c9d7471488167041a6c00",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "FranciscoAlvarez",
@@ -4196,7 +4196,7 @@
       "id": "4BOxB6wZy7oMEWxyZMkjVv",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731ac4273f11642af60ff967f9",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BoBichette",
@@ -4209,7 +4209,7 @@
       "id": "4pR4oQJULf7FDB54TleMyH",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273246d64caed75a28f48f31bfb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "FranciscoLindor",
@@ -4222,7 +4222,7 @@
       "id": "745H5CctFr12Mo7cqa1BMH",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "FranciscoLindor",
@@ -4235,7 +4235,7 @@
       "id": "7tqhbajSfrz2F7E1Z75ASX",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SeanManaea",
@@ -4248,7 +4248,7 @@
       "id": "5fdNHVZHbWB1AaXk4RBGVD",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d8e0e065037b496212e554b7",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RonnyMauricio",
@@ -4261,7 +4261,7 @@
       "id": "5elf7rWt5uFffJvluUfwon",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ca90813d9dffe29a5be25500",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NolanMcLean",
@@ -4274,7 +4274,7 @@
       "id": "5scSQflwXhtc2lbyOlGA3s",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f5ee979efe6166b3b1dfdd5c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChristopherMorel",
@@ -4287,7 +4287,7 @@
       "id": "4fclQgqgZDLbiEkNhtZ0Mx",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27330d14648eaaecbfc4f2a0481",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TobiasMyers",
@@ -4300,7 +4300,7 @@
       "id": "68ZXSfqZbAVgObLCt8Gvbi",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27398590fd341411b3ba27d0554",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChristianScott",
@@ -4313,7 +4313,7 @@
       "id": "393MDhe62s8hbH8ETrlxe5",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MarcusSemien",
@@ -4326,7 +4326,7 @@
       "id": "5LteWLJuDkp4CdWcJppwLS",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f01e7725522d7850290bf739",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KodaiSenga",
@@ -4339,7 +4339,7 @@
       "id": "3BovdzfaX4jb5KFQwoPfAw",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "HaydenSenger",
@@ -4352,7 +4352,7 @@
       "id": "4aVuWgvD0X63hcOCnZtNFA",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JuanSoto",
@@ -4365,7 +4365,7 @@
       "id": "21vHk583nlNXmTU8B6UGj0",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273feedef770924306805b4dceb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LuisTorrens",
@@ -4378,7 +4378,7 @@
       "id": "2NMjggapJcXXM7WccGEBUO",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MarkVientos",
@@ -4391,7 +4391,7 @@
       "id": "7KGHenqXZofXNm5MKDbT3J",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EricWagaman",
@@ -4404,7 +4404,7 @@
       "id": "3HG3QFERdP3Q1b6VGahwWs",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DevinWilliams",
@@ -4417,7 +4417,7 @@
       "id": "39aWy3TkxeE0MGo3u0Fy2v",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734a091c227f04f84d710df3f5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JaredYoung",
@@ -4430,7 +4430,7 @@
       "id": "0Epl79nHvdyTdZRAiWpJah",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CJAbrams",
@@ -4443,7 +4443,7 @@
       "id": "28AqEZA6WsvViKwdUDjwwH",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734d4262528c63a889ee21c8dd",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AndrewAlvarez",
@@ -4456,7 +4456,7 @@
       "id": "4pamu1hc1av1c4BhY8Wh3j",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734e2591f645d0d22af5a6a73f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ClaytonBeeter",
@@ -4469,7 +4469,7 @@
       "id": "18AXbzPzBS8Y3AkgSxzJPb",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738a1d7cf42a84b10bd1ff8e56",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CadeCavalli",
@@ -4482,7 +4482,7 @@
       "id": "3lwHSke9t0hx5sYvPLvrkQ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ca5b41e0978a6c22dd603f0f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AndrésChaparro",
@@ -4495,7 +4495,7 @@
       "id": "5bkWgrKyNhMcriQP3CrHEA",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736d0ee9a4dd2a1882d306324f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DylanCrews",
@@ -4508,7 +4508,7 @@
       "id": "608xszaAxVh4m7NcKJiAbF",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ConnellyEarly",
@@ -4521,7 +4521,7 @@
       "id": "1xNcBAoUw8Hz6LqK2jt4Ff",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731cd65e046a28cef435feff21",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "HarryFord",
@@ -4534,7 +4534,7 @@
       "id": "1JQfZVIxolX2BmM9kAtngp",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273500c84a64b89a118c27e5f59",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JosiahGray",
@@ -4547,7 +4547,7 @@
       "id": "7wBJfHzpfI3032CSD7CE2m",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DJHerz",
@@ -4560,7 +4560,7 @@
       "id": "3Vg7nPYlOrCkcV1abKbRQ1",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273cec3fc072352b5f4f637d9fa",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BradyHouse",
@@ -4573,7 +4573,7 @@
       "id": "45UDzIWgqj5hgQKXLlfdp7",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a70a80359930eea5bfdf11f5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JakeIrvin",
@@ -4586,7 +4586,7 @@
       "id": "1lUTmmPMAsxZBR2iK9CKDF",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f48dbd903d807f4c75b596cf",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JacksonKent",
@@ -4599,7 +4599,7 @@
       "id": "0bXFIF7iL17TYLyx8JHziM",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ZakKent",
@@ -4612,7 +4612,7 @@
       "id": "22bX2FwXSvG49G0bPWm5nc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f8f048a5f4749c970078a4fb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DaylenLile",
@@ -4625,7 +4625,7 @@
       "id": "6xkryXuiZU360Lngd4sx13",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273749e9bfa78277f30ad2c9a9c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BradLord",
@@ -4638,7 +4638,7 @@
       "id": "7MSWxMumjz6lHj7oRApNbg",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734676b161854d2215819f0d32",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RichardLovelady",
@@ -4651,7 +4651,7 @@
       "id": "4rAnSE0E0f33unxXsQa5Fr",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733833236326c6ce530de20c6d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NasimNuñez",
@@ -4664,7 +4664,7 @@
       "id": "3DK90400cDlV5WUJPraMph",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CarsonPalmquist",
@@ -4677,7 +4677,7 @@
       "id": "5aWhs651KYM26HYM16kRdk",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f65523eab3152dcca83b6fca",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "OrlandoRibalta",
@@ -4690,7 +4690,7 @@
       "id": "0Bf3bLtRSlpXl5l5MuzZd6",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731972660c2ccfe8eb3959657d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KeibertRuiz",
@@ -4703,7 +4703,7 @@
       "id": "0MJk3m9Ae2tDN3YMP18ZeE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c1335a4e04e12420fd4b9a48",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PaxtonSchultz",
@@ -4711,12 +4711,12 @@
       "mlbId": "687606",
       "s": "The Stroke",
       "a": "Billy Squier",
-      "spotifyUrl": "https://open.spotify.com/track/153NHo5ncbWeJdhgwNgCON",
+      "spotifyUrl": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E",
       "p": "",
-      "id": "153NHo5ncbWeJdhgwNgCON",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273de20b544e4270a61a68b8d91",
+      "id": "52KvuGmgcgRdrLMXOtda0E",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f4822f8034e697410a14a297",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoséTena",
@@ -4729,7 +4729,7 @@
       "id": "3Rakg2Kn4Nfe5dil1aPiFs",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273cca99657133fc03c37e92225",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GusVarland",
@@ -4742,7 +4742,7 @@
       "id": "0pIiCv0GdhtsOjCJ5Y7zHj",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273588c08dcded5bc5a1c99aa71",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JorbitVivas",
@@ -4755,7 +4755,7 @@
       "id": "34zzneupnJeAVFhHJHm8p7",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273148fbdf10cbd0d2c189004c0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JamesWood",
@@ -4768,7 +4768,7 @@
       "id": "15EPc80XuFrb2LmOzGjuRg",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27355da3f8bb8019c9a1afd9f96",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JacobYoung",
@@ -4781,7 +4781,7 @@
       "id": "35srNkJVToAzYiZzron1FY",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PeteAlonso",
@@ -4794,7 +4794,7 @@
       "id": "4yqtwO7MQIIXqoiRBPHAgR",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fb995d2871f084b34afae3b3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoséBarrero",
@@ -4807,7 +4807,7 @@
       "id": "3QHMxEOAGD51PDlbFPHLyJ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b74db21e2951b303593b6b7a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SamuelBasallo",
@@ -4815,12 +4815,12 @@
       "mlbId": "694212",
       "s": "Misericordia",
       "a": "Onell Diaz, Farruko",
-      "spotifyUrl": "https://open.spotify.com/track/77rNVzQ7Mkv8EDrrNJe2Rv",
+      "spotifyUrl": "https://open.spotify.com/track/5eI7YxPbZkMi8xMeIvHqyK",
       "p": "",
-      "id": "77rNVzQ7Mkv8EDrrNJe2Rv",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b38ebd5b0cbaba7122558861",
+      "id": "5eI7YxPbZkMi8xMeIvHqyK",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739ee55846c34bd30cfe62f2a4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChrisBassitt",
@@ -4833,7 +4833,7 @@
       "id": "7Dxes6VnfbZYV0S2QTnVuT",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737d9057ae7e380fca1f2b01db",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ShaneBaz",
@@ -4846,7 +4846,7 @@
       "id": "0wvIGFIgbyz4JNwQhZgTv2",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DylanBeavers",
@@ -4859,7 +4859,7 @@
       "id": "6LyAwkJsHlW7RQ8S1cYAtM",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "YennierCano",
@@ -4872,7 +4872,7 @@
       "id": "7we7oZsjbgE7h0kbYu1aej",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e88819dbb36ef2b6070655b2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LuisDe León",
@@ -4885,7 +4885,7 @@
       "id": "4vUcoqQTwNQkkzb73UYh3L",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f93c14b8d167ee9511e17ef0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChristianEncarnacion-Strand",
@@ -4898,7 +4898,7 @@
       "id": "5ZSBTVyiOYBaE4snfIeLHs",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b4f0a7ef4d8cc70290ffab32",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CameronFoster",
@@ -4911,7 +4911,7 @@
       "id": "6WAerOuiLIApXmGhjMPA65",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27312c5f3c15e32c11f820b66cc",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChristianFranklin",
@@ -4924,7 +4924,7 @@
       "id": "1Y3HZHOHhZwoiz9yQKgIwo",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27321cf7aaa5ed3bd6176ef08a4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RicoGarcia",
@@ -4937,7 +4937,7 @@
       "id": "6i9pkZHJIlQjWUkKLI3bSv",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273eba5c89fb31b62c230684b00",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TreyGibson",
@@ -4950,7 +4950,7 @@
       "id": "2f0P7iELCvAlV8j6Z3rGDE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273de2a7bf50b6f6c7a1e7e0dee",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GunnarHenderson",
@@ -4963,7 +4963,7 @@
       "id": "7e89621JPkKaeDSTQ3avtg",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ReceHinds",
@@ -4976,7 +4976,7 @@
       "id": "3FSwpQ9dBZBeBV6UdYHI2R",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731692599c8c0f98e470c68106",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "YaramilHiraldo",
@@ -4989,7 +4989,7 @@
       "id": "3QHMxEOAGD51PDlbFPHLyJ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b74db21e2951b303593b6b7a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JacksonHolliday",
@@ -5002,7 +5002,7 @@
       "id": "2RlgNHKcydI9sayD2Df2xp",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c18c4e6c2978fb6cbdef85e2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JeremiahJackson",
@@ -5015,7 +5015,7 @@
       "id": "4xm2HjtDAdCobewPoaImT7",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737a4dae58865f156ea4cd60cf",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AndrewKittredge",
@@ -5028,7 +5028,7 @@
       "id": "0QEolv0OkDDZlQWAFdrfrI",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739d931a490797521a395708e8",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "HestonKjerstad",
@@ -5041,7 +5041,7 @@
       "id": "2hVtGnJeHOo0EqjzYXNFg5",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ac271e5d670e92c42bf99237",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CobyMayo",
@@ -5054,7 +5054,7 @@
       "id": "0PGj9A3Yg5mXfp4VYlL2HY",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bbf99eb282ff165289120b1e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CarlosNarváez",
@@ -5067,7 +5067,7 @@
       "id": "4EWCNWgDS8707fNSZ1oaA5",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CarlosNarváez",
@@ -5080,7 +5080,7 @@
       "id": "4ysPUVz10cXZwhLSuuEO4c",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bcc30c5fa48fca3218c3ffa4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AnthonyNunez",
@@ -5093,7 +5093,7 @@
       "id": "0W7KIc2GSB9suYQAaMZ9rF",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c716f978f25d2cc42f8fe70e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CadePovich",
@@ -5106,7 +5106,7 @@
       "id": "1qPbGZqppFwLwcBC1JQ6Vr",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "YohelPozo",
@@ -5119,7 +5119,7 @@
       "id": "2dd3G3ZqEcG2cNS1tp3oEk",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27353596a050e8369c51da11029",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LuisRobert Jr.",
@@ -5132,7 +5132,7 @@
       "id": "4vUcoqQTwNQkkzb73UYh3L",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f93c14b8d167ee9511e17ef0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LuisRobert Jr.",
@@ -5145,7 +5145,7 @@
       "id": "5dxwCMt2trO5OoYlzpVMrn",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bd57853448e44da5d3a10610",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TrevorRogers",
@@ -5158,7 +5158,7 @@
       "id": "0bRNszTbTFLNlunAeh7eom",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a2b4f98f60e3cacf3866b2e3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CamSanders",
@@ -5171,7 +5171,7 @@
       "id": "0z7wzlhveZrYN6dFaPuRbC",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e46788cda619885b8dd80b6a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AlbertSuárez",
@@ -5184,7 +5184,7 @@
       "id": "2a1o6ZejUi8U3wzzOtCOYw",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734640a26eb27649006be29a94",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LeodyTaveras",
@@ -5197,7 +5197,7 @@
       "id": "0K1XXuhaJBPWMcgjj3ug3u",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273674f4e6a042369cbbacb3a9e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ReedTrimble",
@@ -5210,7 +5210,7 @@
       "id": "0NdEdsXS9jbX1hnufawZ0z",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739408342067e2ff50d69a3c98",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GrantWolfram",
@@ -5223,7 +5223,7 @@
       "id": "5WFJ17ke5ldHuM0X3J5ddz",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrandonYoung",
@@ -5236,7 +5236,7 @@
       "id": "6ZxrUCaynLgKSUudACOTwj",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736655dcd1e8b57d0022f856e6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "YosverZulueta",
@@ -5249,7 +5249,7 @@
       "id": "7n9blOgIIsYDr1tXQ1XPHZ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27354c68ee55ca9f7424e6d7f69",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JasonAdam",
@@ -5262,7 +5262,7 @@
       "id": "0oPOuDmmkVp3h6puekhs6P",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731bb797bbfe2480650b6c2964",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MiguelAndujar",
@@ -5275,7 +5275,7 @@
       "id": "14lNfanueCRwwxfo6oT2tQ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27333dfe9583623f112cea07ad3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "XanderBogaerts",
@@ -5288,7 +5288,7 @@
       "id": "7koAf6aZgjO6TS7bipfPD0",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737e3722344b0226b81ae8b50c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "XanderBogaerts",
@@ -5301,7 +5301,7 @@
       "id": "1zzxoZVylsna2BQB65Ppcb",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27301a6faf91e207748e8e32e0a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JaseBowen",
@@ -5314,7 +5314,7 @@
       "id": "2ggP6WjaTsloaiBxXY5JB7",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730e6952c6887fd08ac8eb02ac",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "WalkerBuehler",
@@ -5327,7 +5327,7 @@
       "id": "0tZ3mElWcr74OOhKEiNz1x",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273053f006079bce979e5fef1e1",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LuisCampusano",
@@ -5340,7 +5340,7 @@
       "id": "4kCkgD1ITALBjzBwGsf6tW",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273937bdecea097b722ed663240",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LuisCampusano",
@@ -5353,7 +5353,7 @@
       "id": "1rBAQ9WFPubGtpqBbdCMDz",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273624e7087da8b43a231d8adcf",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JakeCronenworth",
@@ -5366,7 +5366,7 @@
       "id": "4QAEx1QTsrl0fPpa8Fk2Rz",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733fd8efc844aaecc5482fdee0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "FreddyFermin",
@@ -5379,7 +5379,7 @@
       "id": "4v5cfOtYqnTYN8CagF9tHc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273884f4a10b9ee3e4b19ded8ce",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TyFrance",
@@ -5392,7 +5392,7 @@
       "id": "4ZPdLEztrlZqbJkgHNw54L",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DustinHarris",
@@ -5405,7 +5405,7 @@
       "id": "1Py8c3dkLF0YczcAyBFBEM",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27366b04b41fa6f8908dce86695",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AustinHays",
@@ -5418,7 +5418,7 @@
       "id": "4cLC8gydI0O78g8chZugS4",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b25c8f8668a0751b6c87cace",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MichaelKing",
@@ -5431,7 +5431,7 @@
       "id": "2jUMrVDjn8JUKThdgcmWIk",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739df4dd6c73a4b0d05d11f7ee",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MannyMachado",
@@ -5444,7 +5444,7 @@
       "id": "6Ab2trdJulkRRhaJ9zVGQa",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b27ddff7799d494c71b6b308",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "YukiMatsui",
@@ -5457,7 +5457,7 @@
       "id": "7ySHoLhSRmWjfhuDmOcvTy",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27333c05e1d08fec494a30bd240",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JacksonMerrill",
@@ -5470,7 +5470,20 @@
       "id": "2tudvzsrR56uom6smgOcSf",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273cec3fc072352b5f4f637d9fa",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
+    },
+    {
+      "n": "MasonMiller",
+      "t": "padres",
+      "mlbId": "695243",
+      "s": "Blind",
+      "a": "Korn",
+      "spotifyUrl": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R",
+      "p": "",
+      "id": "1pr9TZGOXeJUggIal1Wq3R",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737153b1cf6ee990c2a9fa46cc",
+      "src": "mlb.com",
+      "upd": "2026-10-08"
     },
     {
       "n": "AdrianMorejon",
@@ -5483,7 +5496,7 @@
       "id": "4Xtlw8oXkIOvzV7crUBKeZ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f98b3d2d2e0c530ff1d43311",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DavidMorgan",
@@ -5496,7 +5509,7 @@
       "id": "1UL8GkVAs6UcWF6BZ3DYZt",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736d07ac77f37c4e83f2d19972",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoeMusgrove",
@@ -5509,20 +5522,7 @@
       "id": "6i9pkZHJIlQjWUkKLI3bSv",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273eba5c89fb31b62c230684b00",
       "src": "mlb.com",
-      "upd": "2026-10-07"
-    },
-    {
-      "n": "WandyPeralta",
-      "t": "padres",
-      "mlbId": "593974",
-      "s": "Aguanile",
-      "a": "Marc Anthony",
-      "spotifyUrl": "https://open.spotify.com/track/0Bf3bLtRSlpXl5l5MuzZd6",
-      "p": "",
-      "id": "0Bf3bLtRSlpXl5l5MuzZd6",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731972660c2ccfe8eb3959657d",
-      "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NickPivetta",
@@ -5535,7 +5535,7 @@
       "id": "1B7oPqVftX53l0e32Nc3Dc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27385694d7c3556bfd3ec1ef863",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RobbieRay",
@@ -5548,7 +5548,7 @@
       "id": "59lRASvykN3UQstK839tep",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734f10b921615b42e0913288b1",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BradgleyRodriguez",
@@ -5561,7 +5561,7 @@
       "id": "4MZSqgwlE71CWZ6qQ3gkKm",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273548f7ec52da7313de0c5e4a0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EthanSalas",
@@ -5574,7 +5574,7 @@
       "id": "393OFJFZKIIv66JmJcNm9D",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GavinSheets",
@@ -5582,12 +5582,12 @@
       "mlbId": "657757",
       "s": "Grave Robber",
       "a": "Crowder",
-      "spotifyUrl": "https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy",
+      "spotifyUrl": "https://open.spotify.com/track/0bAWhaY0GaTtAOaLWZbdyQ",
       "p": "",
-      "id": "1AuNDsNLc7b3tApnlyaGdy",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f695a68ba59a73597e11fb76",
+      "id": "0bAWhaY0GaTtAOaLWZbdyQ",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27392e7b0b7e4b6e24f0114b261",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "FernandoTatis Jr.",
@@ -5600,7 +5600,7 @@
       "id": "6b70qcaryJFejODMi3VRl1",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ef8bfa70aeb9a91eee8d541c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SamadTaylor",
@@ -5613,7 +5613,7 @@
       "id": "5A6tFAdihqILHJrWuR6wD4",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734a92eb0e4fcbe2fb6e1208e5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LuisArraez",
@@ -5626,7 +5626,7 @@
       "id": "5jFA0f4ZDGLbQP4nxzL8D4",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bdd9200ece04b83fe196978e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NestorCortes",
@@ -5639,7 +5639,7 @@
       "id": "1U4mweNwisxNj23ffuC9gO",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27311b21e8b868800918d21bb77",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DerekHill",
@@ -5652,7 +5652,7 @@
       "id": "0NjuL8WPfpZsp6WoG1M9SZ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732cfffad80cdfc9770967f601",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TimMayza",
@@ -5665,7 +5665,7 @@
       "id": "7f7tgpDphjLUDGoHGpR7fw",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733398a227ce9a573b52fc74ef",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KameronMisner",
@@ -5673,12 +5673,12 @@
       "mlbId": "670224",
       "s": "Should've Been A Cowboy",
       "a": "Toby Keith",
-      "spotifyUrl": "https://open.spotify.com/track/18BajNiyvH6GpYshB0unrm",
+      "spotifyUrl": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy",
       "p": "",
-      "id": "18BajNiyvH6GpYshB0unrm",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d241324e9e9f14f83f293c5a",
+      "id": "4TJUS843fKiqqIzycM74Oy",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739b3b9e4898eb80d8d8cbab8a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrooksRaley",
@@ -5691,7 +5691,7 @@
       "id": "1ppTqTBXqnlVGPxlluGHRE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273015b740ee3bc1f5ae4556aa2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "HenryDavis",
@@ -5704,7 +5704,7 @@
       "id": "5EWPGh7jbTNO2wakv8LjUI",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrandonLowe",
@@ -5717,7 +5717,7 @@
       "id": "5coaRlXMVrq0WRMQQbgmrh",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273237c48b93d09ff60106ac16b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JakeMangum",
@@ -5730,7 +5730,7 @@
       "id": "5dRQUolXAVX3BbCiIxmSsf",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27301ed248b4ac01c868e688322",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CarmenMlodzinski",
@@ -5743,7 +5743,7 @@
       "id": "6r6ARqXEyXaoQjVZ1Mb1pV",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c9adfbd773852e286faed040",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MasonMontgomery",
@@ -5756,7 +5756,7 @@
       "id": "57bgtoPSgt236HzfBOd8kj",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739a9b1cc067e4460da04adce2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyanO'Hearn",
@@ -5769,7 +5769,7 @@
       "id": "2f0P7iELCvAlV8j6Z3rGDE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273de2a7bf50b6f6c7a1e7e0dee",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BryanReynolds",
@@ -5782,7 +5782,7 @@
       "id": "7E2DqvnVtbIrFrL5X6YH9Q",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bb5c54a68f9ce31f83b98de4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RonnySimon",
@@ -5795,7 +5795,7 @@
       "id": "2MlOUXmcofMackX3bxfSwi",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735206b258d1a6f0689577fe58",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GregorySoto",
@@ -5808,7 +5808,7 @@
       "id": "0A2ZPxyrcF3MTnK51UNK0X",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bcdda33f18cf36f2fe04ff5d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JaredTriolo",
@@ -5821,7 +5821,7 @@
       "id": "429IbFR4yp2J81CeTwF5iY",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KirbyYates",
@@ -5834,7 +5834,7 @@
       "id": "5O4erNlJ74PIF6kGol1ZrC",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731c40418d1c37d727e8e91b04",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TylerAlexander",
@@ -5847,7 +5847,7 @@
       "id": "3QZ7uX97s82HFYSmQUAN1D",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27372833c1ae3343cbfb4617073",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CodyBradford",
@@ -5860,7 +5860,7 @@
       "id": "7anCH1IPfW8Jsjhw5ZViuN",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273dbcdfcf727f924f476bda1b2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JakeBurger",
@@ -5873,7 +5873,7 @@
       "id": "7hrFCoyWwKep7qp1lP4oga",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bf3f135cf9f904d6135d5ea5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JakeBurger",
@@ -5886,7 +5886,7 @@
       "id": "73ZTWCuwudUVvvWipRnQnQ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736f27df1fe7aa9ea757be6a1c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EvanCarter",
@@ -5899,7 +5899,7 @@
       "id": "5g1vtHqi9uV7xtYeCcFOBx",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GavinCollyer",
@@ -5912,7 +5912,7 @@
       "id": "5GCU2LJWPzoP8Q6nexs61z",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739c6589cb7500fa8e6f343990",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JacobdeGrom",
@@ -5925,7 +5925,7 @@
       "id": "1ju7EsSGvRybSNEsRvc7qY",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EliasDíaz",
@@ -5938,7 +5938,7 @@
       "id": "7we7oZsjbgE7h0kbYu1aej",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e88819dbb36ef2b6070655b2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EzequielDuran",
@@ -5951,7 +5951,7 @@
       "id": "5oAxXxkmmBqW1NtjzwwHVz",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ed9a2719f60c7e18ee01dab5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NathanEovaldi",
@@ -5964,7 +5964,7 @@
       "id": "45HAjqRWiNv6mMPw4NvZrU",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bce034d651da4d21e43c8a19",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CodyFreeman",
@@ -5977,7 +5977,7 @@
       "id": "5rb9QrpfcKFHM1EUbSIurX",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RobertGarcia",
@@ -5990,7 +5990,7 @@
       "id": "1fckqKAI9ug7U1DgQrrOop",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f0c746d1b52c883c19b25a51",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MacKenzieGore",
@@ -6003,7 +6003,7 @@
       "id": "5gFoAVTN9YlM9uJCrFZtgl",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c1bb124f993488cf21b269fc",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MichaelHelman",
@@ -6016,7 +6016,7 @@
       "id": "3hWp69Hxk5wpjTwu6F1ELv",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ca00c58190a8054d17d4e2fe",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KyleHigashioka",
@@ -6029,7 +6029,7 @@
       "id": "53jhILFzXhKPHAfsLoLUwA",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f99cf2f3c3ec959c204fdb60",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DannyJansen",
@@ -6042,7 +6042,7 @@
       "id": "6g7bQ8qabCjVQQj2giiYZZ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273772aa08600bc39f778707bb1",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoshJung",
@@ -6055,7 +6055,7 @@
       "id": "6Yvrv046xNsQXX3MirnO8l",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c947fa79efe86ab1107abb28",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JakobJunis",
@@ -6068,7 +6068,7 @@
       "id": "1Q4jb2UjtWUDUojHsB8mLY",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d7ffe027c4a00022faaf2958",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "WyattLangford",
@@ -6081,7 +6081,7 @@
       "id": "001CJF57pI6QLXivCcVc6K",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27392e7b0b7e4b6e24f0114b261",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JacobLatz",
@@ -6094,7 +6094,7 @@
       "id": "3lGBvPUgO7MJltUnBlOpe9",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273be9fa0b820bcd93392d4047b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AdamMacko",
@@ -6107,7 +6107,7 @@
       "id": "3jDdpx9PMlfMBS5tOBHFm9",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27301841d493ec3808242042c0f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JordanMontgomery",
@@ -6120,7 +6120,7 @@
       "id": "4IR8Ni9szpw7rUcTtVLe0b",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273465be6cda98a1a6950a12964",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrandonNimmo",
@@ -6133,7 +6133,7 @@
       "id": "2C0CRs9cwkD8VABHxrBkEd",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27394b79af76d3e032dc9ee87ee",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AlejandroOsuna",
@@ -6146,7 +6146,7 @@
       "id": "2sUknbm8xdLQgH7wb8xcTX",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e21d67a65c0e58205cf2cfc5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JocPederson",
@@ -6159,7 +6159,7 @@
       "id": "0TKWHD7sbO0CrEAdegPLZm",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a3e43eb6dc16ff996293035a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KumarRocker",
@@ -6172,7 +6172,7 @@
       "id": "6fhnenGUf7siyZK3twLRuc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ead2462e6feb74eed07883d7",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CoreySeager",
@@ -6185,7 +6185,7 @@
       "id": "167MBruhHSaKTTSXaak9zF",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733ee113eaa4d52565a102efbc",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TrevorWilliams",
@@ -6198,7 +6198,7 @@
       "id": "6QewNVIDKdSl8Y3ycuHIei",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JonathanAranda",
@@ -6211,7 +6211,7 @@
       "id": "2SkB7jADnfiWH8qAE9H8cO",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735ffe63ab6e8a3f6f5653d188",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BryanBaker",
@@ -6224,7 +6224,7 @@
       "id": "5UqCQaDshqbIk3pkhy4Pjg",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ffb343926530168be4724dd4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JuniorCaminero",
@@ -6237,7 +6237,7 @@
       "id": "5nJaS3PEpyPfaWiLxIGtRX",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739a5ca92aab056506d2b44316",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GarrettCleavinger",
@@ -6250,7 +6250,7 @@
       "id": "6Xy7bkDe5xz2f7vtlUIjQE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e1813b0ce32dab08c3259ad8",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JonnyDeLuca",
@@ -6263,7 +6263,7 @@
       "id": "30nSDFwnTjVweKupURDK1g",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738b048b6486231cca4766a076",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "YandyDíaz",
@@ -6276,7 +6276,7 @@
       "id": "0P5jGd8WjbisrkskU4bqQI",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d33619cbc8a147915f0bc748",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NickFortes",
@@ -6289,7 +6289,7 @@
       "id": "5m0yZ33oOy0yYBtdTXuxQe",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LiamHicks",
@@ -6302,7 +6302,7 @@
       "id": "2bLqfJjuC5syrsgDsZfGmn",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734ed674ab91bdc566534f9285",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GriffinJax",
@@ -6315,7 +6315,7 @@
       "id": "2OOcagX0sr4SQuBbHJkE5I",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KevinKelly",
@@ -6328,7 +6328,7 @@
       "id": "2m1hi0nfMR9vdGC8UcrnwU",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NickMartinez",
@@ -6341,7 +6341,7 @@
       "id": "17B9XlyyYDKkTmPay4z02V",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ad6406aedb73e970e012fa9b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JorgeMateo",
@@ -6354,7 +6354,7 @@
       "id": "6Z7JjhxyAoREUDcIssHTQw",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732367172b1c04add9999f8fc3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "StevenMatz",
@@ -6367,7 +6367,7 @@
       "id": "12WiGqEs3t5hrzBJTe1K0P",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "VictorMesa Jr.",
@@ -6380,7 +6380,7 @@
       "id": "0jXp2fCV6jcHEn3ZIgL4NX",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27382014f9335233c29b9ba3491",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CedricMullins",
@@ -6393,7 +6393,7 @@
       "id": "01vCzM84c5JLSkG2iXC9VZ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738b08b8fa3e0d46fd47f8dbf7",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RichiePalacios",
@@ -6406,7 +6406,7 @@
       "id": "2yxMDNWlGtsTes4Jbrddoi",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27335f50801837199889efde8d5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "FreddyPeralta",
@@ -6419,7 +6419,7 @@
       "id": "0J2sWV6wNwKvSoaadiZ5LK",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ac107b3c70c137e0b2ad9779",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DrewRasmussen",
@@ -6432,7 +6432,7 @@
       "id": "30HCB1FoE77IfGRyNv4eFq",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ChandlerSimpson",
@@ -6445,7 +6445,7 @@
       "id": "5f4Hy5mw5SRaUgXX9c6P5S",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f46a9ad551acbdab8f72fd89",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ColeSulser",
@@ -6458,7 +6458,7 @@
       "id": "5e9TFTbltYBg2xThimr0rU",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyanVilade",
@@ -6471,7 +6471,7 @@
       "id": "3U5JVgI2x4rDyHGObzJfNf",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b337e1ca6629a53c66a3b0d4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TaylorWalls",
@@ -6484,7 +6484,7 @@
       "id": "0r2Bul2NuCViraT2zX1l5j",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TylerWells",
@@ -6497,7 +6497,7 @@
       "id": "0Rxgdpe1zgZ6ZzHgxSaYEJ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736c043a70edf4e0d2ae4e8fa5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BenWilliamson",
@@ -6510,7 +6510,7 @@
       "id": "6guWjUuNYziyNXgjFo1IpF",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273493d0a872c97a661b9606e62",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AndrewAbbott",
@@ -6523,7 +6523,7 @@
       "id": "1dyxS3YzBbL0t8rEVwVQ1K",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27383d0837c6597177f7b161fb5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TejayAntone",
@@ -6536,7 +6536,7 @@
       "id": "2xkrujtSjZz7EKAYGbIIzH",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732275fd69aa339b0d529097e4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GrahamAshcraft",
@@ -6549,7 +6549,7 @@
       "id": "2fdHmGsLOn6krkpCw5diIC",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735621d24ec6d58473ffd9532f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JJBleday",
@@ -6562,7 +6562,7 @@
       "id": "35cWnQKyLjmzkq81M51D9n",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273069a434e32ddf15c11428771",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrockBurke",
@@ -6575,7 +6575,7 @@
       "id": "73qINA7ccO03wxD8nsJalr",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EllyDe La Cruz",
@@ -6588,7 +6588,7 @@
       "id": "6L91gCCcUYBVCCqfXwDSGP",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732b47e458f013bce6290f9839",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "Ke'BryanHayes",
@@ -6601,7 +6601,7 @@
       "id": "14PWHDV87nXiSuClZDsEYC",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732bc7a1fb98d177aa0c948bdc",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PierceJohnson",
@@ -6614,7 +6614,7 @@
       "id": "37M4IPkEmlMhysqhJimj8U",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27340b7cbdd3f088887699d317e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NickLodolo",
@@ -6627,7 +6627,7 @@
       "id": "30KctD1WsHKTIYczXjip5a",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736ff25c2481eeaf6e7284d461",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NoelviMarte",
@@ -6640,7 +6640,7 @@
       "id": "7Lq6O09reN4j1nNtgk34jP",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e82508edbbcc03c15128fd07",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MattMcLain",
@@ -6653,7 +6653,7 @@
       "id": "503OTo2dSqe7qk76rgsbep",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DaneMyers",
@@ -6666,7 +6666,7 @@
       "id": "5oS8YDcBrOzRV3H437J9m5",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732eb35c6d663064a123479abb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DaneMyers",
@@ -6679,7 +6679,7 @@
       "id": "59rtiYOPgMEDf3yPEfU2la",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b52de499225c78279683a43e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EmilioPagán",
@@ -6692,7 +6692,7 @@
       "id": "3gILDObZFV7LD5pmjSr9zo",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27381600202fa2aa00411c4dc48",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TonySantillan",
@@ -6705,7 +6705,7 @@
       "id": "6GG4yyk3UATdBfTHVgI8PB",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736f555ba312f3317dcbaa2cb9",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BradySinger",
@@ -6718,7 +6718,7 @@
       "id": "0Rxgdpe1zgZ6ZzHgxSaYEJ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736c043a70edf4e0d2ae4e8fa5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CarsonSpiers",
@@ -6731,7 +6731,7 @@
       "id": "0ct6r3EGTcMLPtrXHDvVjc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730ae4f4d42e4a09f3a29f64ad",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TylerStephenson",
@@ -6744,7 +6744,7 @@
       "id": "75f4fO9adbAYJqNBKJNrxs",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f3598adb0465bb8a18c154f0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TylerStephenson",
@@ -6757,7 +6757,7 @@
       "id": "6Vaj5q8RxJMo6Hhzp5lL2Q",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273957f956ff309416dacbee117",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EugenioSuárez",
@@ -6770,7 +6770,7 @@
       "id": "2QGJxRzj44DAFZJb2ZOLFp",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273eb9611ac2fedac08f7475cac",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EugenioSuárez",
@@ -6783,7 +6783,7 @@
       "id": "7Ee6XgP8EHKDhTMYLIndu9",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739ccc98bb244869e5e9836f37",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoseTrevino",
@@ -6796,7 +6796,7 @@
       "id": "1SyQ6t9RdRBK0QUCS6a797",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739ac4e14fdaf2f24717050239",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrandonWilliamson",
@@ -6809,7 +6809,7 @@
       "id": "02opp1cycqiFNDpLd2o1J3",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrennanBernardino",
@@ -6822,7 +6822,7 @@
       "id": "3GoYJXn2rVzbMRE4iLiUYc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739eaf7ba467394c19043d19f1",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "WilliCastro",
@@ -6835,7 +6835,7 @@
       "id": "2gSp6tEBy9Se20QnUP0L2f",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736ecf69fe4c0b493f5cd1fdbb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "WilliCastro",
@@ -6848,7 +6848,7 @@
       "id": "1z667LebVh3DtYNrVJEao0",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d365183f20a7edea176cf4c2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "WilliCastro",
@@ -6861,7 +6861,7 @@
       "id": "057OPzHcfKN8SevFtsyv5v",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27344d546d20a087cd6aca5b670",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JakeMcCarthy",
@@ -6874,7 +6874,7 @@
       "id": "2LUuroV5qV15ty2lgPypEj",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27398aafaf1c3857969614a18c3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ConnorNorby",
@@ -6887,7 +6887,7 @@
       "id": "38T0tPVZHcPZyhtOcCP7pF",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27304cd9a1664fb4539a55643fe",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JordanRomano",
@@ -6898,9 +6898,9 @@
       "spotifyUrl": "https://open.spotify.com/track/0vZCG0H9KhtU7K8MEUVAoV",
       "p": "",
       "id": "0vZCG0H9KhtU7K8MEUVAoV",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b58c3422b23ddf8c39f8b124",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735e1ca3ad77212a958547a39b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MasonBlack",
@@ -6913,7 +6913,7 @@
       "id": "34j4OxJxKznBs88cjSL2j9",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JacCaglianone",
@@ -6926,7 +6926,7 @@
       "id": "4lH6nENd1y81jp7Yt9lTBX",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737567ec7d3c07783e4f2111e0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NoahCameron",
@@ -6939,7 +6939,7 @@
       "id": "6rrKbzJGGDlSZgLphopS49",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c469e75608b59994c1c422be",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "IsaacCollins",
@@ -6952,7 +6952,7 @@
       "id": "3DK90400cDlV5WUJPraMph",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LucasErceg",
@@ -6965,7 +6965,7 @@
       "id": "1fQaoh3imrMunWVZh5kf90",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730ea1ecb2d5271c2db402b0c2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MaikelGarcia",
@@ -6978,7 +6978,7 @@
       "id": "7ns16ylM6sbxo9ZWIwyE5d",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TonyGonsolin",
@@ -6991,7 +6991,7 @@
       "id": "1N4jhCFeE0hrZGYfpJsSAF",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b4f862f5dcd791200767d968",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KyleIsbel",
@@ -7004,7 +7004,7 @@
       "id": "1SFWLN2UHw5N7RdkEHGoSD",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fe51a81b947a6386ae4c5d8f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CarterJensen",
@@ -7017,7 +7017,7 @@
       "id": "2LDtIlX8RS5qfI7Pw7EAxN",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737cbc668f86bd44cb6d45ab0f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CraigKimbrel",
@@ -7030,7 +7030,7 @@
       "id": "0Bt6mezaGJwD6vbJ09jluP",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27385b859e691b583313d49e925",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AlexLange",
@@ -7043,7 +7043,7 @@
       "id": "73TxYZd0lBCVRrHawrAglA",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738cffbbb7fe8645a486a85ea9",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NickLoftin",
@@ -7056,7 +7056,7 @@
       "id": "28GUjBGqZVcAV4PHSYzkj2",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a191830c8b300bc71c2faac7",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SethLugo",
@@ -7069,7 +7069,7 @@
       "id": "51YZAJhOwIC5Gg3jMbAmhZ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DanielLynch IV",
@@ -7082,7 +7082,7 @@
       "id": "0GKpfjxFocYmrX2UM18jxd",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273193070192b1c8425ae513537",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LukeMaile",
@@ -7095,7 +7095,7 @@
       "id": "6W21LNLz9Sw7sUSNWMSHRu",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734e492e787ed64de43c3a3a21",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MichaelMassey",
@@ -7108,7 +7108,7 @@
       "id": "003vvx7Niy0yvhvHt4a68B",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JamesMcArthur",
@@ -7121,7 +7121,7 @@
       "id": "6GG4yyk3UATdBfTHVgI8PB",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736f555ba312f3317dcbaa2cb9",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "VinniePasquantino",
@@ -7134,7 +7134,7 @@
       "id": "1WIZiOuNO3woKfdlSK2gNn",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "NatePearson",
@@ -7147,7 +7147,7 @@
       "id": "7MSWxMumjz6lHj7oRApNbg",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734676b161854d2215819f0d32",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SalvadorPerez",
@@ -7160,7 +7160,7 @@
       "id": "4Ixc50wY5pbUvNEogTQ2wL",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e7330f0045c65be502d01cd6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JohnRave",
@@ -7173,7 +7173,7 @@
       "id": "5CJ3DQPUmrtI2lqRjPk4K6",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27312e27fb338068cb83246a4d9",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoshRojas",
@@ -7186,7 +7186,7 @@
       "id": "5dYyoRxPWVaV36XSD49yGS",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273539bb112d7c970545dd971e3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ConnorThomas",
@@ -7199,7 +7199,7 @@
       "id": "3CA9pLiwRIGtUBiMjbZmRw",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TylerTolbert",
@@ -7212,7 +7212,7 @@
       "id": "7qFxSPDUDMQNGBqTvK4aEj",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735648193cce023bc5f418f5e9",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BobbyWitt Jr.",
@@ -7225,7 +7225,7 @@
       "id": "7vLdHqkzAl5BDVxphZ7vaO",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c951a766fbb2032ef90533dd",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DrewAnderson",
@@ -7238,7 +7238,7 @@
       "id": "5GT2mT3P8vMK4U9R4zzu7a",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736c03b757ece416e014feef5e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JavierBáez",
@@ -7251,7 +7251,7 @@
       "id": "4yabImm6Yxn3hZvL3psPVh",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732327bea90d09c0cf1e999e85",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JavierBáez",
@@ -7264,7 +7264,7 @@
       "id": "79eVykA1e87kZtlK9xKwjQ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fd97e2b85573a208bb868349",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BeauBrieske",
@@ -7277,7 +7277,7 @@
       "id": "77YKoNCjP5hWqiXMRG2839",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c786ceb2ebf85c58c7dc665f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrettCallahan",
@@ -7290,7 +7290,7 @@
       "id": "5hM5arv9KDbCHS0k9uqwjr",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MaxClark",
@@ -7303,7 +7303,7 @@
       "id": "5ZAMlvo6ZUjVRZOGu2bJib",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27399f0c412a5d80626ae972cf4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EnmanuelDe Jesus",
@@ -7316,7 +7316,7 @@
       "id": "6s5fdTesXo77NneP3tn3Km",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "YilberDíaz",
@@ -7329,7 +7329,7 @@
       "id": "3I0GpbhYRufXr707fqU44D",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738481f6fe7d9830cca1b494d9",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DillonDingler",
@@ -7342,7 +7342,7 @@
       "id": "2id8E4WvczfKHB4LHI7Np3",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732614c295a38ee782d093aa09",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KyleFinnegan",
@@ -7355,7 +7355,7 @@
       "id": "1BfR5GMOgW0peHkPxrwf11",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27357b7f789d328c205b4d15893",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JackFlaherty",
@@ -7368,7 +7368,7 @@
       "id": "3xgK660fsZH7ZDcOMfIdfB",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27352e8aa3275f7a3ee9c1e3628",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RileyGreene",
@@ -7381,7 +7381,7 @@
       "id": "0DougW6R5ZoPKhOMGFBmRq",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f26e16c256f7042d8f6a814b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TylerHolton",
@@ -7394,7 +7394,7 @@
       "id": "4RvWPyQ5RL0ao9LPZeSouE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrantHurter",
@@ -7407,7 +7407,7 @@
       "id": "6N1sNzq3CArC1pMSaZTxaT",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27308556429e10c65aa103fe65d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KenleyJansen",
@@ -7420,7 +7420,7 @@
       "id": "3qZHUZTQiTMfJXcUYzY5mT",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JacksonJobe",
@@ -7433,7 +7433,7 @@
       "id": "5TRPicyLGbAF2LGBFbHGvO",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CoreyJulks",
@@ -7446,7 +7446,7 @@
       "id": "6i33LrYcqEjfhDudr0PRy9",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733e4f3cb23f0815e54d71e7fa",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JaceJung",
@@ -7459,7 +7459,7 @@
       "id": "65DbTqJKhbwqYbZ1Okr0rc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27390958927fbba47a62c3e63f8",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ColtKeith",
@@ -7472,7 +7472,7 @@
       "id": "28IEbk5a7twNTbUEvWslUb",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e9c3c16b480e1c5a84d7b188",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "Hao-YuLee",
@@ -7485,7 +7485,7 @@
       "id": "66TRwr5uJwPt15mfFkzhbi",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TyMadden",
@@ -7498,7 +7498,7 @@
       "id": "2tXZxXmknsaVTNTaCvnlx8",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273152dff2321bbb3c4fbb757bb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BenMalgeri",
@@ -7511,7 +7511,7 @@
       "id": "1SFWLN2UHw5N7RdkEHGoSD",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fe51a81b947a6386ae4c5d8f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KevinMcGonigle",
@@ -7524,7 +7524,7 @@
       "id": "2I1W3hcSsPIsEJfD69pHrW",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273cc6495584fb0e2261ee95868",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ZachMcKinstry",
@@ -7537,7 +7537,7 @@
       "id": "1ZozJfi8u9cO2Ob8KwiwNT",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f8f048a5f4749c970078a4fb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TroyMelton",
@@ -7550,7 +7550,7 @@
       "id": "1hIQPCM3oWXrpnXmgTDaKG",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a1d9c9969f2a7ed27e449a3c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KeiderMontero",
@@ -7563,7 +7563,7 @@
       "id": "49EOHRqHSoGYEOSe15Zrpq",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27302716d1c5348fcaa4fd7a8fe",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DrewSommers",
@@ -7576,7 +7576,7 @@
       "id": "745sNpjWbAxo2MA2zSYbyD",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SpencerTorkelson",
@@ -7589,7 +7589,7 @@
       "id": "5KONnBIQ9LqCxyeSPin26k",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GleyberTorres",
@@ -7602,7 +7602,7 @@
       "id": "1PZrHbJjt5t7dP9OGRxcD0",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b4070df60fced11f282548d0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "FramberValdez",
@@ -7615,7 +7615,7 @@
       "id": "2mzDRrBn6M6rWX4bGzd1uQ",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b7d7ef3ef13c21022507ea90",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EduardoValencia",
@@ -7628,7 +7628,7 @@
       "id": "4MjDJD8cW7iVeWInc2Bdyj",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732ea1f035463d11e1fc3b193d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JustinVerlander",
@@ -7641,7 +7641,7 @@
       "id": "6p4SUKhIyPqbmU828M0JWD",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737614dc8b0eab9abd91cc0d71",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JacobWaguespack",
@@ -7654,7 +7654,7 @@
       "id": "73oaAjfHAtUJDtul0QFlfs",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f51052dbdc4d85848166d51c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoshBell",
@@ -7667,7 +7667,7 @@
       "id": "6qA5gzBRyEfYvDgbmBdHH4",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739cf6d88637554f7598fb8295",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TajBradley",
@@ -7675,12 +7675,12 @@
       "mlbId": "671737",
       "s": "Feeling",
       "a": "LADIPOE",
-      "spotifyUrl": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa",
+      "spotifyUrl": "https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS",
       "p": "",
-      "id": "29e2gdZN35wxeGgDtkXjIa",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736b2e2d85fd6f8248853796f2",
+      "id": "1z567QCaLLuRE7ZxQS5oYS",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733eb55499824dfb227dbfc33b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ByronBuxton",
@@ -7693,7 +7693,7 @@
       "id": "4aUCPal9bxTnQkEfdIY6sG",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273413a6c2c7b296d98171e5e21",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ByronBuxton",
@@ -7706,7 +7706,7 @@
       "id": "0piPn2zyL4Yi60ml53qNXE",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273163f08b7c440bf63093f172b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "VictorCaratini",
@@ -7719,7 +7719,7 @@
       "id": "5ig1NYGNOdSlSJBZi6UBtn",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736d227496f1ba003fb1c0fe70",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KodyClemens",
@@ -7732,7 +7732,7 @@
       "id": "1DFD5Fotzgn6yYXkYsKiGs",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ead13021d0f2957958081f28",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KodyClemens",
@@ -7745,7 +7745,7 @@
       "id": "1B7oPqVftX53l0e32Nc3Dc",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27385694d7c3556bfd3ec1ef863",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KaelenCulpepper",
@@ -7758,7 +7758,7 @@
       "id": "0eaVIYo2zeOaGJeqZ5TwYz",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KodyFunderburk",
@@ -7771,7 +7771,7 @@
       "id": "57bgtoPSgt236HzfBOd8kj",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739a9b1cc067e4460da04adce2",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "YoendrysGómez",
@@ -7784,7 +7784,7 @@
       "id": "6kWCId7jrTRB8yU65WxmGn",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27324f314d10feb21fa3efda081",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TristanGray",
@@ -7797,7 +7797,7 @@
       "id": "3dfQHA2aB7Eojax9qDA9Kx",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27362b9cb87f7cc19f84b010e72",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JeffHoffman",
@@ -7805,12 +7805,12 @@
       "mlbId": "656546",
       "s": "Alive (nightmare) - Album Version (Edited)",
       "a": "Kid Cudi",
-      "spotifyUrl": "https://open.spotify.com/track/3HG3QFERdP3Q1b6VGahwWs",
+      "spotifyUrl": "https://open.spotify.com/track/6FDi2fIH5snGcYjONJGgw1",
       "p": "",
-      "id": "3HG3QFERdP3Q1b6VGahwWs",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74",
+      "id": "6FDi2fIH5snGcYjONJGgw1",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f153e5e07ac19f0859b9e1af",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyanJeffers",
@@ -7823,7 +7823,7 @@
       "id": "2YBQcvnNuFjIRt1JjaVxMn",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ac98542ce496accc84f6decc",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "WalkerJenkins",
@@ -7836,7 +7836,7 @@
       "id": "4cLC8gydI0O78g8chZugS4",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b25c8f8668a0751b6c87cace",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LukeKeaschall",
@@ -7849,7 +7849,7 @@
       "id": "0wpbWr0vI9mIV6WpO5CqPi",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735c6bb5e4c245510d72a605d0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyanKreidler",
@@ -7862,7 +7862,7 @@
       "id": "2gNfxysfBRfl9Lvi9T3v6R",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TrevorLarnach",
@@ -7875,7 +7875,7 @@
       "id": "2Ih217RCGAmyQR68Nn7Cqo",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27368820c2a3865d138ab7daba3",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BrooksLee",
@@ -7886,9 +7886,9 @@
       "spotifyUrl": "https://open.spotify.com/track/7oFSKhgxWic1lRc2DCQjAN",
       "p": "",
       "id": "7oFSKhgxWic1lRc2DCQjAN",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732d748e81add0de8bf58ad4e5",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a22575a1eb498b44cd1b1430",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RoyceLewis",
@@ -7901,7 +7901,7 @@
       "id": "4EWCNWgDS8707fNSZ1oaA5",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AustinMartin",
@@ -7914,7 +7914,7 @@
       "id": "4A56h4B9xUuMMXoKuj18HT",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d62a34460f9106ee437bb0b5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ZebbyMatthews",
@@ -7927,7 +7927,7 @@
       "id": "1WAQBNBq1ImccX79sychHo",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737febfd6d70d50d2eee8338cf",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "A.J.Minter",
@@ -7940,7 +7940,7 @@
       "id": "4KbbwwMatxWQOM10ipj1bT",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2731f6c08a8db88ca490e1725e5",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AndrewMorris",
@@ -7953,7 +7953,7 @@
       "id": "5ghIJDpPoe3CfHMGu71E6T",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TommyNance",
@@ -7966,7 +7966,7 @@
       "id": "1xADYlM5rjnbJvAW2tc0qF",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27343d978694566927455ced3c6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "BaileyOber",
@@ -7979,7 +7979,7 @@
       "id": "78lgmZwycJ3nzsdgmPPGNx",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "EricOrze",
@@ -7992,7 +7992,7 @@
       "id": "6wBpgsERq6XpJfIjWXOrnn",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fc564debe5392fccf29ac548",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ConnorPrielipp",
@@ -8005,7 +8005,7 @@
       "id": "2CIXO1jQbrV1hlfI7FUKld",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AlanRoden",
@@ -8018,7 +8018,7 @@
       "id": "6lrQo6KAYvb92MGk6ZuZlt",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TaylorRogers",
@@ -8031,7 +8031,7 @@
       "id": "5e9TFTbltYBg2xThimr0rU",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "KendryRojas",
@@ -8044,7 +8044,7 @@
       "id": "1BwrMGGhPA6GarWIYaFrW8",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733f265b6afc76d0f74d35df8e",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoeRyan",
@@ -8057,7 +8057,7 @@
       "id": "1J5XEPamp7iQaCU0aFuMnd",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739edcf15aa5f593bc7ced5254",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MattWallner",
@@ -8070,7 +8070,7 @@
       "id": "30877ufZfLUNYXR9mXo9bi",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27343c110e9f26cd843682c5232",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LuisangelAcuña",
@@ -8083,7 +8083,7 @@
       "id": "1C7lXfx4Y5maVl4AgUVlHA",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732ea1f035463d11e1fc3b193d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AndrewBenintendi",
@@ -8096,7 +8096,7 @@
       "id": "7LABrQFfRYcZUqUwng0Heb",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735c4e130f344c151e4384e023",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "ErickFedde",
@@ -8109,7 +8109,7 @@
       "id": "6GtX0jaNL8IjVQfrDBx81z",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RandalGrichuk",
@@ -8122,7 +8122,7 @@
       "id": "68mOSKT4uBkKddEAhlMO61",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a1cbd333da5cc7ae8f5981fb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JordanHicks",
@@ -8135,7 +8135,7 @@
       "id": "4XF9fk0STp9hx8xn5Suwpz",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273cec3fc072352b5f4f637d9fa",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "SeanNewcomb",
@@ -8148,7 +8148,7 @@
       "id": "0Ft6hwGWdCdujdK6TOfBV7",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27343c17e4cf83437c7892db001",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TommyPham",
@@ -8161,7 +8161,7 @@
       "id": "2CDcXWYWilHTXrsOXJza8n",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b1b3fdd23be4c158d4d2c32f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MiguelVargas",
@@ -8174,7 +8174,7 @@
       "id": "2Z8rpsOQ64lVimg0eKMRCm",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27355e27b7596d8ca93efdd807f",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "DavidBednar",
@@ -8187,7 +8187,7 @@
       "id": "1CQqupcyMg7176PPmIVmSj",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PaulBlackburn",
@@ -8200,7 +8200,7 @@
       "id": "4KYS9GK68yeuUJ8vJfPxrq",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JoséCaballero",
@@ -8213,7 +8213,7 @@
       "id": "3XYpDYOpTt7DOHDhn4LeIe",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273702c7888a15f16f521aea0bd",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "GerritCole",
@@ -8226,7 +8226,7 @@
       "id": "7MTPoaLvTBj4zv3g2w4jmS",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f5f330d133fa3a8dd52bd1d6",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "MaxFried",
@@ -8239,7 +8239,7 @@
       "id": "2JvzF1RMd7lE3KmFlsyZD8",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737f37a4001ae7d8be430bd91b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "LuisGarcía Jr.",
@@ -8252,7 +8252,7 @@
       "id": "21vHk583nlNXmTU8B6UGj0",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273feedef770924306805b4dceb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "PaulGoldschmidt",
@@ -8260,12 +8260,12 @@
       "mlbId": "502671",
       "s": "Grave Robber",
       "a": "Crowder",
-      "spotifyUrl": "https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy",
+      "spotifyUrl": "https://open.spotify.com/track/0bAWhaY0GaTtAOaLWZbdyQ",
       "p": "",
-      "id": "1AuNDsNLc7b3tApnlyaGdy",
-      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f695a68ba59a73597e11fb76",
+      "id": "0bAWhaY0GaTtAOaLWZbdyQ",
+      "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27392e7b0b7e4b6e24f0114b261",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "TrentGrisham",
@@ -8278,7 +8278,7 @@
       "id": "7JxHM7ioNtHLF2pJLcXHkp",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b6be490d63a421c009280a3c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "HeliotRamos",
@@ -8291,7 +8291,7 @@
       "id": "3D9d0PEHfC9PqQAwKKljDv",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273142a2d5876ed5f430f491e3c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "CarlosRodón",
@@ -8304,7 +8304,7 @@
       "id": "0wvIGFIgbyz4JNwQhZgTv2",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "JohnSchreiber",
@@ -8317,7 +8317,7 @@
       "id": "5e9TFTbltYBg2xThimr0rU",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AnthonyVolpe",
@@ -8330,7 +8330,7 @@
       "id": "4qDpLaFGf5ampf2DXD2TMA",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27336b6992af3531fb34813327c",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "RyanWeathers",
@@ -8343,7 +8343,7 @@
       "id": "0bPnT6i9H1p8Vd85GS6Z7I",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27314d09c1ad67f2028764ee0f4",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     },
     {
       "n": "AustinWells",
@@ -8356,7 +8356,7 @@
       "id": "0hCB0YR03f6AmQaHbwWDe8",
       "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d",
       "src": "mlb.com",
-      "upd": "2026-10-07"
+      "upd": "2026-10-08"
     }
   ],
   "changes": [
@@ -8365,6 +8365,335 @@
       "team": "angels",
       "from": "El Elegido",
       "to": "Neverita",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "JoseAltuve",
+      "team": "astros",
+      "from": "Firestone",
+      "to": "Volver",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "JoshHader",
+      "team": "astros",
+      "from": "What Did I Miss?",
+      "to": "Fireman",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "BriceMatthews",
+      "team": "astros",
+      "from": "Toxic",
+      "to": "pick up the phone",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "JeremyPeña",
+      "team": "astros",
+      "from": "Just A Lil Bit",
+      "to": "My Chick Bad",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "DaultonVarsho",
+      "team": "astros",
+      "from": "I RUN TO YOUR LIGHT",
+      "to": "Ordinary",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "ChristianVázquez",
+      "team": "astros",
+      "from": "BONITA",
+      "to": "Sonríele",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "ChristianWalker",
+      "team": "astros",
+      "from": "Lose Control",
+      "to": "I Run This - Album Version (Edited)",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "TylerRogers",
+      "team": "bluejays",
+      "from": "Yellow Submarine",
+      "to": "Ain't No Rest for the Wicked",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "MichaelHarris II",
+      "team": "braves",
+      "from": "Viking",
+      "to": "Make It Rain",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "MichaelHarris II",
+      "team": "braves",
+      "from": "Viking",
+      "to": "Take Me Thru Dere",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "DavidHamilton",
+      "team": "brewers",
+      "from": "Roses",
+      "to": "Dior",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "IvánHerrera",
+      "team": "cardinals",
+      "from": "Shook Ones, Pt. II",
+      "to": "El Hokage",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "VictorScott II",
+      "team": "cardinals",
+      "from": "Smooth Operator - Single Version",
+      "to": "Get It Sexyy",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "BryanTorres",
+      "team": "cardinals",
+      "from": "I Want It That Way",
+      "to": "Se Dejo Del Novio",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "MiguelAmaya",
+      "team": "cubs",
+      "from": "Las Avispas",
+      "to": "Panama - 2015 Remaster",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "PeteCrow-Armstrong",
+      "team": "cubs",
+      "from": "It's A Vibe",
+      "to": "End of Beginning",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "IanHapp",
+      "team": "cubs",
+      "from": "Lose Control",
+      "to": "Spectrum (Say My Name)",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "IanHapp",
+      "team": "cubs",
+      "from": "Lose Control",
+      "to": "Kill The Lights (with Nile Rodgers) - Audien Remix",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "NicoHoerner",
+      "team": "cubs",
+      "from": "whoa (mind in awe)",
+      "to": "MY EYES",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "MattShaw",
+      "team": "cubs",
+      "from": "YAHWEH",
+      "to": "TRUTH WILL SET YOU FREE",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "SeiyaSuzuki",
+      "team": "cubs",
+      "from": "My Way - 2008 Remastered",
+      "to": "ライトスタンド",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "JordanLawlar",
+      "team": "dbacks",
+      "from": "Young Miko: Bzrp Music Sessions, Vol. 58",
+      "to": "Coldest Zone",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "JustinMartinez",
+      "team": "dbacks",
+      "from": "Fireman",
+      "to": "Baila Conmigo (feat. Kelly Ruiz)",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "GabrielMoreno",
+      "team": "dbacks",
+      "from": "Taboo",
+      "to": "Amado Mio",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "GeraldoPerdomo",
+      "team": "dbacks",
+      "from": "Bendecido",
+      "to": "Patiently Waiting - Album Version (Edited)",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "MookieBetts",
+      "team": "dodgers",
+      "from": "Soul Survivor",
+      "to": "Put It On Da Floor Again (feat. Cardi B)",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "TeoscarHernández",
+      "team": "dodgers",
+      "from": "Zumba",
+      "to": "Ve por Tu Sueño",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "MaxMuncy",
+      "team": "dodgers",
+      "from": "Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks)",
+      "to": "Thinkin’ Bout Me",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "J.P.Crawford",
+      "team": "mariners",
+      "from": "Three Little Birds",
+      "to": "Around the World",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "OttoLopez",
+      "team": "marlins",
+      "from": "Me Gusta",
+      "to": "Bing Bong",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "EuryPérez",
+      "team": "marlins",
+      "from": "Lo Que Te Killa",
+      "to": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "JavierSanoja",
+      "team": "marlins",
+      "from": "Eto No Se Sabe Donde Vayas A Parar",
+      "to": "Una Chica Good Good",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "FranciscoLindor",
+      "team": "mets",
+      "from": "Ain't No Mountain High Enough",
+      "to": "My Girl",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "CarlosNarváez",
+      "team": "orioles",
+      "from": "Somos de Calle",
+      "to": "Heartless",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "LuisRobert Jr.",
+      "team": "orioles",
+      "from": "De Donde Yo Salí",
+      "to": "El Campeón",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "XanderBogaerts",
+      "team": "padres",
+      "from": "X Gon' Give It To Ya",
+      "to": "YO y TÚ",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "LuisCampusano",
+      "team": "padres",
+      "from": "I'M ON SOME",
+      "to": "wgft (feat. Burna Boy)",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "JakeBurger",
+      "team": "rangers",
+      "from": "Family Tradition",
+      "to": "Back On My BS",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "DaneMyers",
+      "team": "reds",
+      "from": "Still Tippin' (feat. Slim Thug and Paul Wall)",
+      "to": "Tops Drop",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "TylerStephenson",
+      "team": "reds",
+      "from": "Afternoon Delight (From \"Anchorman: The Legend of Ron Burgundy\")",
+      "to": "Boneless",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "EugenioSuárez",
+      "team": "reds",
+      "from": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
+      "to": "Creere",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "WilliCastro",
+      "team": "rockies",
+      "from": "Dembere",
+      "to": "Porón Pompón",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "WilliCastro",
+      "team": "rockies",
+      "from": "Dembere",
+      "to": "All the Above (feat. T-Pain)",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "JavierBáez",
+      "team": "tigers",
+      "from": "NERVIOS DE ACERO (Bandido)",
+      "to": "PANCC",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "ByronBuxton",
+      "team": "twins",
+      "from": "All Around the World",
+      "to": "Jamming",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "KodyClemens",
+      "team": "twins",
+      "from": "Wipe Me Down (feat. Foxx, Webbie & Boosie Badazz) - Remix",
+      "to": "Piece Of Your Heart",
+      "date": "2026-10-08"
+    },
+    {
+      "player": "OswaldPeraza",
+      "team": "angels",
+      "from": "El Elegido",
+      "to": "Neverita",
       "date": "2026-10-07"
     },
     {
@@ -8730,335 +9059,6 @@
       "from": "I RUN TO YOUR LIGHT",
       "to": "Ordinary",
       "date": "2026-10-06"
-    },
-    {
-      "player": "ChristianVázquez",
-      "team": "astros",
-      "from": "BONITA",
-      "to": "Sonríele",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "ChristianWalker",
-      "team": "astros",
-      "from": "Lose Control",
-      "to": "I Run This - Album Version (Edited)",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "TylerRogers",
-      "team": "bluejays",
-      "from": "Yellow Submarine",
-      "to": "Ain't No Rest for the Wicked",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "MichaelHarris II",
-      "team": "braves",
-      "from": "Viking",
-      "to": "Make It Rain",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "MichaelHarris II",
-      "team": "braves",
-      "from": "Viking",
-      "to": "Take Me Thru Dere",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "DavidHamilton",
-      "team": "brewers",
-      "from": "Roses",
-      "to": "Dior",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "IvánHerrera",
-      "team": "cardinals",
-      "from": "Shook Ones, Pt. II",
-      "to": "El Hokage",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "VictorScott II",
-      "team": "cardinals",
-      "from": "Smooth Operator - Single Version",
-      "to": "Get It Sexyy",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "BryanTorres",
-      "team": "cardinals",
-      "from": "I Want It That Way",
-      "to": "Se Dejo Del Novio",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "MiguelAmaya",
-      "team": "cubs",
-      "from": "Las Avispas",
-      "to": "Panama - 2015 Remaster",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "PeteCrow-Armstrong",
-      "team": "cubs",
-      "from": "It's A Vibe",
-      "to": "End of Beginning",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "IanHapp",
-      "team": "cubs",
-      "from": "Lose Control",
-      "to": "Spectrum (Say My Name)",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "IanHapp",
-      "team": "cubs",
-      "from": "Lose Control",
-      "to": "Kill The Lights (with Nile Rodgers) - Audien Remix",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "NicoHoerner",
-      "team": "cubs",
-      "from": "whoa (mind in awe)",
-      "to": "MY EYES",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "MattShaw",
-      "team": "cubs",
-      "from": "YAHWEH",
-      "to": "TRUTH WILL SET YOU FREE",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "SeiyaSuzuki",
-      "team": "cubs",
-      "from": "My Way - 2008 Remastered",
-      "to": "ライトスタンド",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "JordanLawlar",
-      "team": "dbacks",
-      "from": "Young Miko: Bzrp Music Sessions, Vol. 58",
-      "to": "Coldest Zone",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "JustinMartinez",
-      "team": "dbacks",
-      "from": "Fireman",
-      "to": "Baila Conmigo (feat. Kelly Ruiz)",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "GabrielMoreno",
-      "team": "dbacks",
-      "from": "Taboo",
-      "to": "Amado Mio",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "GeraldoPerdomo",
-      "team": "dbacks",
-      "from": "Bendecido",
-      "to": "Patiently Waiting - Album Version (Edited)",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "MookieBetts",
-      "team": "dodgers",
-      "from": "Soul Survivor",
-      "to": "Put It On Da Floor Again (feat. Cardi B)",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "TeoscarHernández",
-      "team": "dodgers",
-      "from": "Zumba",
-      "to": "Ve por Tu Sueño",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "MaxMuncy",
-      "team": "dodgers",
-      "from": "Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks)",
-      "to": "Thinkin’ Bout Me",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "J.P.Crawford",
-      "team": "mariners",
-      "from": "Three Little Birds",
-      "to": "Around the World",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "OttoLopez",
-      "team": "marlins",
-      "from": "Me Gusta",
-      "to": "Bing Bong",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "EuryPérez",
-      "team": "marlins",
-      "from": "Lo Que Te Killa",
-      "to": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "JavierSanoja",
-      "team": "marlins",
-      "from": "Eto No Se Sabe Donde Vayas A Parar",
-      "to": "Una Chica Good Good",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "FranciscoLindor",
-      "team": "mets",
-      "from": "Ain't No Mountain High Enough",
-      "to": "My Girl",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "CarlosNarváez",
-      "team": "orioles",
-      "from": "Somos de Calle",
-      "to": "Heartless",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "LuisRobert Jr.",
-      "team": "orioles",
-      "from": "De Donde Yo Salí",
-      "to": "El Campeón",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "XanderBogaerts",
-      "team": "padres",
-      "from": "X Gon' Give It To Ya",
-      "to": "YO y TÚ",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "LuisCampusano",
-      "team": "padres",
-      "from": "I'M ON SOME",
-      "to": "wgft (feat. Burna Boy)",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "JakeBurger",
-      "team": "rangers",
-      "from": "Family Tradition",
-      "to": "Back On My BS",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "DaneMyers",
-      "team": "reds",
-      "from": "Still Tippin' (feat. Slim Thug and Paul Wall)",
-      "to": "Tops Drop",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "TylerStephenson",
-      "team": "reds",
-      "from": "Afternoon Delight (From \"Anchorman: The Legend of Ron Burgundy\")",
-      "to": "Boneless",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "EugenioSuárez",
-      "team": "reds",
-      "from": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
-      "to": "Creere",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "WilliCastro",
-      "team": "rockies",
-      "from": "Dembere",
-      "to": "Porón Pompón",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "WilliCastro",
-      "team": "rockies",
-      "from": "Dembere",
-      "to": "All the Above (feat. T-Pain)",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "JavierBáez",
-      "team": "tigers",
-      "from": "NERVIOS DE ACERO (Bandido)",
-      "to": "PANCC",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "ByronBuxton",
-      "team": "twins",
-      "from": "All Around the World",
-      "to": "Jamming",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "KodyClemens",
-      "team": "twins",
-      "from": "Wipe Me Down (feat. Foxx, Webbie & Boosie Badazz) - Remix",
-      "to": "Piece Of Your Heart",
-      "date": "2026-10-06"
-    },
-    {
-      "player": "OswaldPeraza",
-      "team": "angels",
-      "from": "El Elegido",
-      "to": "Neverita",
-      "date": "2026-10-05"
-    },
-    {
-      "player": "JoseAltuve",
-      "team": "astros",
-      "from": "Firestone",
-      "to": "Volver",
-      "date": "2026-10-05"
-    },
-    {
-      "player": "JoshHader",
-      "team": "astros",
-      "from": "What Did I Miss?",
-      "to": "Fireman",
-      "date": "2026-10-05"
-    },
-    {
-      "player": "BriceMatthews",
-      "team": "astros",
-      "from": "Toxic",
-      "to": "pick up the phone",
-      "date": "2026-10-05"
-    },
-    {
-      "player": "JeremyPeña",
-      "team": "astros",
-      "from": "Just A Lil Bit",
-      "to": "My Chick Bad",
-      "date": "2026-10-05"
-    },
-    {
-      "player": "DaultonVarsho",
-      "team": "astros",
-      "from": "I RUN TO YOUR LIGHT",
-      "to": "Ordinary",
-      "date": "2026-10-05"
     }
   ]
 }
